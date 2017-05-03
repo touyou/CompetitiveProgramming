@@ -1,0 +1,68 @@
+○2007-DAY1-1 (Score)	5 sec	64 MB
+○2007-DAY1-2 (Factorial)	0.5 sec	64 MB
+○2007-DAY1-3 (Mall)	6 sec	64 MB
+○2007-DAY2-1 (Building)	1 sec	64 MB
+  2007-DAY2-2 (Fermat)	0.5 sec	64 MB
+○2007-DAY3-1 (Anagram)	1 sec	64 MB
+○2007-DAY3-2 (Route)	3 sec	64 MB
+  2007-DAY3-3 (Circuit)	3 sec	64 MB
+○2007-DAY4-1 (Fiber)	1 sec	64 MB
+　2007-DAY4-2 (Lines)	1 sec	64 MB
+　2008-DAY1-1 (Committee)	1 sec	64 MB
+　2008-DAY1-2 (Sheet)	1 sec	64 MB
+　2008-DAY1-3 (Flu)	1 sec	64 MB
+　2008-DAY2-1 (Nile.com)	1 sec	64 MB
+　2008-DAY2-2 (Cheating)	1 sec	64 MB
+　2008-DAY2-3 (Belt)	10 sec	64 MB
+　2008-DAY3-1 (Origami)	1 sec	64 MB
+　2008-DAY3-2 (Fraction)	0.5 sec	64 MB
+　2008-DAY3-3 (Nightman)	5 sec	64 MB
+　2008-DAY4-1 (Ruins)	1.5 sec	64 MB
+　2008-DAY4-2 (Typhoon)	2 sec	64 MB
+　2009-DAY1-1 (Sequence)	1 sec	64 MB
+　2009-DAY1-2 (Stamps)	1 sec	64 MB
+　2009-DAY1-3 (Pyramid)	5 sec	64 MB
+　2009-DAY2-1 (Abduction)	1 sec	64 MB
+　2009-DAY2-2 (Advertisement)	1 sec	64 MB
+　2009-DAY2-3 (Contest)	1 sec	64 MB
+　2009-DAY3-1 (Territory)	1 sec	64 MB
+　2009-DAY3-2 (Ski)	1 sec	64 MB
+　2009-DAY3-3 (Logo)	3 sec	64 MB
+○2009-DAY4-1 (Distribution)	2 sec	256 MB
+　2009-DAY4-2 (Chopsticks)	1 sec	64 MB
+　2009-DAY4-3 (Starry Sky)	3 sec	256 MB
+○2010-DAY1-1 (JOI Poster)	1 sec	64 MB
+　2010-DAY1-2 (Sengoku)	0.75 sec	64 MB
+　2010-DAY1-3 (Stairs)	1.5 sec	64 MB
+　2010-DAY2-1 (a + b problem)	1 sec	64 MB
+　2010-DAY2-2 (DNA synthesizer)	1 sec	64 MB
+　2010-DAY2-3 (Regions)	1 sec	64 MB
+　2010-DAY3-1 (Finals)	1 sec	64 MB
+　2010-DAY3-2 (Hide-and-seek)	1 sec	64 MB
+○2010-DAY4-1 (Contest)	1 sec	64 MB
+　2010-DAY4-2 (Highway)	4 sec	256 MB
+　2010-DAY4-3 (Lake)	1 sec	256 MB
+　2010-DAY4-4 (Plugs)	1 sec	64 MB
+○2011-DAY1-1 (Banner)	1.5 sec	64 MB
+　2011-DAY1-2 (Dragon)	10 sec	64 MB
+　2011-DAY1-3 (Joitter)	1 sec	64 MB
+　2011-DAY2-1 (Guess Them All)	2 sec	64 MB
+　2011-DAY2-2 (Keycards)	1 sec	64 MB
+　2011-DAY2-3 (Shiritori)	5 sec	64 MB
+　2011-DAY3-1 (Deciphering)	0.5 sec	64 MB
+　2011-DAY3-2 (Report)	0.5 sec	64 MB
+　2011-DAY4-1 (Apples)	4 sec	256 MB
+　2011-DAY4-2 (Bookshelf)	1 sec	64 MB
+　2011-DAY4-3 (IOI)	1 sec	64 MB
+　2011-DAY4-4 (Orienteering)	1 sec	64 MB
+　2012-DAY1-1 (Building2)	1 sec	64 MB
+　2012-DAY1-2 (Fish)	1.5 sec	64 MB
+　2012-DAY1-3 (JOI Flag)	3 sec	64 MB
+　2012-DAY2-1 (Rotate)	1 sec	64 MB
+　2012-DAY2-2 (Constellation)	2 sec	64 MB
+　2012-DAY3-1 (Fortune Telling)	2 sec	64 MB
+　2012-DAY3-2 (Kangaroo)	2 sec	64 MB
+　2012-DAY3-3 (Sokoban)	2 sec	512 MB
+　2012-DAY4-1 (Chinese)	1.5 sec	64 MB
+　2012-DAY4-2 (Copy and Paste)	17 sec	512 MB
+　2012-DAY4-3 (Invitation)	3 sec	128 MB

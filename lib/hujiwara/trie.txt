@@ -1,0 +1,49 @@
+struct trie{
+  int c;
+  struct trie *chi[256];
+};
+
+trie *ins(trie *T,char *s)
+{
+  if(T==NULL){
+    T=(trie *)malloc(sizeof(trie));
+    for(int i=0;i<256;i++){
+      T->chi[i]=NULL;
+    }
+    T->c=0;
+  }
+  if(*s){
+    T->chi[*s]=ins(T->chi[*s],s+1);
+  }
+  else{
+    T->c++;
+  }
+  return T;
+}
+
+int MAX(trie *T)
+{
+  if(T==NULL)
+    return 0;
+  int m=T->c;
+  for(int i=0;i<256;i++){
+    int n=MAX(T->chi[i]);
+    if(m<n)
+      m=n;
+  }
+  return m;
+}
+
+void print(trie *T,char *s,int i,int m)
+{
+  if(T==NULL)
+    return;
+  if(m==T->c){
+    s[i]=0;
+    printf("%s\n",s);
+  }
+  for(int j=0;j<256;j++){
+    s[i]=j;
+    print(T->chi[j],s,i+1,m);
+  }
+}

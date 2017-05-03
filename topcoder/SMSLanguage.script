@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long LL;
+#define REP(i, N) for (int i = 0; i < (int)N; i++)
+
+
+struct SMSLanguage {
+    string text;
+
+    string translate(string _text) {
+        text = _text;
+        
+        return "";
+    }
+};
+
+// CUT begin
+// CUT end

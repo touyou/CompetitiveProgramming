@@ -1,0 +1,70 @@
+int max_flow(vector<vector<int> > edge,int s,int t)
+{
+  int n=edge.size();
+  vectro<vector<int> > backedge(n),rev(n),flow(n);
+  for(int i=0;i<n;i++){
+    for(int j=0;j<edge[i],size();j++){
+      backedge[edge[i][j]].push_back(i);
+      rev[edge[i][j]].push_back(j);
+      flow[i].push_back(0);
+    }
+  }
+  while(1){
+    queue<int> bfs;
+    bfs.push(s);
+    vector<bool> visit(n,0);
+    visit[s]=1;
+    vector<int> res(n,0),back(n),eindex(n);
+    while(!bfs.empty()){
+      int i=bfs.front();
+      bfs.pop();
+      for(int j=0;j<edge[i].size();j++){
+	int k=edge[i][j];
+	if(!visit[k]){
+	  if(i==s)
+	    res[k]=max(0,1-flow[i][j]);
+	  else
+	    res[k]=min(res[i],1-flow[i][j]);
+	  if(res[k]){
+	    bfs.push(k);
+	    visit[k]=1;
+	    back[k]=i;
+	    eindex[k]=j;
+	  }
+	}
+      }
+      for(int j=0;j<backsz[i];j++){
+	int k=backedge[i][j];
+	if(!visit[k]){
+	  if(i==s)
+	    res[k]=flow[k][rev[i][j]];
+	  else
+	    res[k]=min(res[i],flow[k][rev[i][j]]);
+	  if(res[k]){
+	    bfs.push(k);
+	    visit[k]=1;
+	    back[k]=i+n;
+	    eindex[k]=rev[i][j];
+	  }
+	}
+      }
+    }
+    if(!res[t])
+      break;
+    for(int i=t;i!=s;){
+      if(back[i]<n){
+	flow[back[i]][eindex[i]]+=res[t];
+	i=back[i];
+      }
+      else{
+	flow[i][eindex[i]]-=res[t];
+	i=back[i]-n;
+      }
+    }
+  }
+  int Max=0;
+  for(int i=0;i<n;i++){
+    Max+=flow[s][i];
+  }
+  return Max;
+}

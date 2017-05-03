@@ -1,0 +1,11 @@
+Dmitry likes TopCoder Single Round Matches. Once, he registered for an SRM and was waiting for the coding phase to begin. To entertain himself while waiting, he decided to play the following game.
+
+He makes a pile of cards, and on each card, he writes the number of an SRM in which he has competed. No two cards contain the same number. He then takes turns until the pile is empty. Each turn consists of the following sequence of actions:
+*Dmitry chooses an arbitrary card from the pile. Let A be the number written on this card.
+*The card with number A is removed from the pile.
+*If the pile contains a card with number A-1, that card is removed from the pile.
+*If the pile contains a card with number A+1, that card is removed form the piles.
+
+The game is finished when the pile becomes empty. It's fun to play the game, so Dmitry wants to spend as much times as possible playing it.
+
+You are given a int[] cards containing the numbers written in the cards in the pile before the start of the game. Return the largest possible number of turns in which Dmity can finish the game.

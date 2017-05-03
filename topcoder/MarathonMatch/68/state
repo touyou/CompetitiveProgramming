@@ -1,0 +1,145 @@
+Problem Statement
+    
+You are given a square board of NxN cells and a list of words. Your task is to create a crossword on this board using only these words so that it scores as high as possible on the given criteria of "beauty". You are given the size of the board N, the list of allowed words and the list of weights used to balance the scores on individual criteria. You have to return a String[] which contains your crossword. Each element corresponds to one row of the board. '.' mark empty cells, and uppercase letters mark the cells in which letters are written (letter cells). Rows must be listed from top to bottom, and cells within each row must be listed from left to right. Each maximal vertical sequence (when read from top to bottom) and horizontal sequence (when read from left to right) of two and more letters must be a valid word (i.e., it must be present in words). Each letter must be a part of at least one word (vertical or horizontal). Each word can be used at most once. A valid crossword will be scored by calculating the scores on 4 criteria:
+和訳：あなたにはNxNのセルで区切られた四角いボードと単語のリストが与えられます。あなたの仕事はこのボードに与えられた単語だけをつかって、「美しさ」の所定の基準上でできるだけ高い得点がもらえるクロスワードを作ることです。あなたにはボードのサイズであるN、許される単語のリスト、そして個々の基準で得点の釣り合いをとるのに用いられる要点のリストが与えられます。あなたはString[]型の値を返さなくてはなりません。またそれはあなたのクロスワードを含みます。各々の要素はボードの一列と一致します。“.”は空のセルをマークし、大文字の文字はすでに文字が書かれるセル(文字セル)をマークします。列は上から下までリストされていなければいけませんし、各々の列にあるセルは左から右にリストされてなくてはなりません。各々の、二つまたはそれ以上の文字の、縦並びに満たされたシークエンス(上から下に読んだとき)と横並びのシークエンス(左から右に読んだとき)は有効なワードである必要があります(すなわちそれは存在する単語でなければなりません)。それぞれの文字は少なくとも一つの単語(縦並びか横並び)の一部である必要があります。それぞれの単語は多くても一回しか使われません。有効なクロスワードは四つの基準で得点を計算され記録されます。
+
+Board filling score is the total number of letter cells, divided by the total number of cells on the board (N*N).
+和訳：満たされたボードの得点は文字セルの総数をボード(N*N)の上でセルの総数によって割ったものです。
+
+Rows/columns filling score is the number of columns which contain at least one letter cell, multiplied by the number of rows which contain at least one letter cell, divided by N*N.
+和訳：満たされた列/行の得点は少なくとも一つの文字セルを含む列に少なくとも一つの文字セルを含んだ行を掛け、N＊Nで割ったものです。
+
+Symmetry score is calculated as follows: for each cell of 1/8 of the grid the number of empty cells among itself and 7 cells symmetrical to it (horizontally, vertically, diagonally and combinations) is calculated. More exactly, let (i, j) be the cell in row i, column j of the board (both rows and columns are numbered from 0 to N-1). Then for each cell (i, j), such that 0 <= i <= N-i-1, 0 <= j <= i, the number of empty cells is calculated among the following eight cells: (i, j), (j, i), (N-i-1, j), (j, N-i-1), (i, N-j-1), (N-j-1, i), (N-i-1, N-j-1) and (N-j-1, N-i-1). If some cell occures several times among these 8 cell and it is empty, then each occurrence contributes independently towards the number of empty cells. Next, values 0 or 8 add 1.0 to the score, values 1 or 7 add 0.5 to the score, values 2 or 6 add 0.1 to the score. Finally, the score is divided by the number of cells in 1/8 of the grid, i.e., the number of cells (i, j), such that 0 <= i <= N-i-1, 0 <= j <= i.
+和訳：釣り合いのスコアは次のように計算されます。:お互いに空のセルであるグリッドの数の1/8のそれぞれのセルと縦、横、斜めまたはその組み合わせに関して対称形となる７つのセルはは計算されます。より正確に言うと、(i,j)をボードの縦i、横j(縦も横も0からN-1までの数でナンバリングされる。)にあるセルだと仮定する。その時それぞれのセル(i,j)は、0<=i<=N-i-1,0<=j<=iで,空のセルの数は次の８個のセルの間で	計算されます。：(i, j), (j, i), (N-i-1, j), (j, N-i-1), (i, N-j-1), (N-j-1, i), (N-i-1, N-j-1),そして(N-j-1, N-i-1)。もしいくつかのセルが８個のセルの中に何度か存在し、そしてそれが空なら、それぞれの出来事は独立して空のセルの数の方へ貢献します。次に、値が０か８ならスコアに1.0足して、値が１か７なら０．５をたして、２か６なら０．１をたします。最後にスコアはグリッドのセルの1/8の数で割られ、すなわちセル(i,j)の数は0 <= i <= N-i-1, 0 <= j <= iとなります。
+
+Crossings score is the number of crossing cells, divided by the total number of letter cells. A letter cell is a crossing cell if it is a part of both vertical and horizontal word. If there are no letter cells in a crossword, then its crossings score is 0.
+和訳：交差の得点は交差したセルの数を文字セルの総数でわった一人なります。文字セルはそれが縦と横の単語の一部ならば交差セルとなります。もしそこに文字セルがないならば、交差の得点は０です。
+
+Your score for the test case will be the weighted average of these values with weights given in weights. In other words, if your board filling, rows/columns filling, symmetry and crossings scores are A, B, C and D, then your score for this test case is (A*weights[0] + B*weights[1] + C*weights[2] + D*weights[3]) / (weights[0] + weights[1] + weights[2] + weights[3]). Your overall score will be the sum of individual scores over all test cases. Invalid returns are given zero score. A tester is provided for offline testing. See its source code for details of test case generation and scoring.
+和訳：テストケースのためのあなたの得点はこれらの要点の値の加重平均となります。言い換えると、もしあなたのボードが満たされていて、列/行が満たされていて、対称性と交差のスコアがそれぞれA,B.C,Dであるならば、あなたのテストケースで与えられる得点は、(A*weights[0] + B*weights[1] + C*weights[2] + D*weights[3]) / (weights[0] + weights[1] + weights[2] + weights[3])となります。あなたの全体のスコアはこのすべての独立した得点の総和となります。独立した返却は得点０を与えます。テスターはオフラインのテストを用意しています。テストケースの生成とスコアリングの詳細についてはそのソースコードを見てください。
+
+Definition
+    
+Class:
+BeautifulCrossword
+Method:
+generateCrossword
+Parameters:
+int, String[], int[]
+Returns:
+String[]
+Method signature:
+String[] generateCrossword(int N, String[] words, int[] weights)
+(be sure your methods are public)
+    
+
+Notes
+-words is generated from this list (which is effectively TWL06 list with words of length 2 removed) using the following algorithm. Value prob is chosen between 0.001 and 0.01, and each word from the list is included in words with this probability. words is always sorted in alphabetical order. All elements of words will be uppercase.
+和訳：単語はこのリストから生成され次のようなアルゴリズムが使われています。値の確率は０.００１と０．０１の間で選ばれ、リストからのそれぞれの単語はその確率でその単語が含まれます。単語はいつもアルファベット順にソートされます。すべての単語の要素は大文字となります。
+
+-N and elements of weights will be chosen uniformly at random.
+和訳；Nと要点の要素は均一にランダムで選ばれます。
+
+-The memory limit is 1024 MB and the time limit is 10 seconds per test case (which includes only time spent in your code). There is no explicit code size limit. The implicit source code size limit is around 1 MB (it is not advisable to submit codes of size close to that or larger).
+和訳：メモリーの制限値は1024MBと時間制限はテストケースにつき10秒です。明確なコードサイズの制限はありません。暗黙的にソースコードのサイズ制限は１MBぐらいとなります。
+
+-There are 10 example test cases and 100 full submission test cases.
+和訳：ここには１０のテストケース例と１００のサブミッションテストケースがあります。
+
+Constraints
+-N will be between 20 and 100, inclusive (except example 0).
+和訳：Nは２０から１００の間ですべてを含みます。（例外：例０）
+
+-weights will contain exactly 4 elements, each element being between 1 and 10, inclusive.
+和訳：要点は確実に四つの要素を含み、それぞれの要素は１から１０までのすべての値になりえます。
+
+-Your return must contain N elements, each element must contain exactly N characters.
+和訳：あなたのはN個の値を返さなくてはいけなく、それぞれの要素はN文字ある必要があります。
+
+-Each character of your return must be 'A'..'Z' or '.'.
+和訳：あなたの返す要素のそれぞれの文字はAからZまたは.である必要があります。
+
+Examples
+0)
+
+    
+
+N = 11
+Number of words = 179
+Weights are  6  8  7  10
+One of the possible crosswords for this test case is
+BORER.BOTAS
+R......V..I
+A....C.E..N
+S.F..O.R..E
+H.U..C..T.W
+..STACKER..
+..E..O..A..
+S.L..I..Y.U
+I..INDEX..M
+M.........P
+AHED..SINUS
+1)
+
+    
+
+N = 74
+Number of words = 1258
+Weights are  9  7  7  3
+2)
+
+    
+
+N = 78
+Number of words = 645
+Weights are  5  10  1  8
+3)
+
+    
+
+N = 41
+Number of words = 903
+Weights are  7  4  2  10
+4)
+
+    
+
+N = 43
+ Number of words = 198
+ Weights are  2  1  10  2 
+5)
+
+    
+
+N = 71
+ Number of words = 489
+ Weights are  7  9  4  9
+6)
+
+    
+
+N = 80
+ Number of words = 1578
+ Weights are  2  2  9  1
+7)
+
+    
+
+N = 24
+ Number of words = 1120
+ Weights are  9  4  10  9
+8)
+
+    
+
+N = 84
+ Number of words = 398
+ Weights are  7  8  4  7
+9)
+
+    
+
+N = 87
+ Number of words = 289
+ Weights are  4  10  2  2
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2003, TopCoder, Inc. All rights reserved.

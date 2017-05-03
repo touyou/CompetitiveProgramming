@@ -1,0 +1,168 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long LL;
+#define REP(i, N) for (int i = 0; i < (int)N; i++)
+
+struct SMSLanguage {
+    string text;
+    string ans;
+
+    string translate(string _text) {
+        text = _text;
+        
+        return text;
+    }
+};
+
+// CUT begin
+using namespace std;
+char do_test(string,string,int,bool);
+//------------------------------------------------------------------------------
+
+char run_testcase(int __no) {
+ string text;
+ string __expected = string;
+ bool __unknownAnswer = false;
+
+ switch (__no) {
+  case 0: {
+    text = "I HATE rats, and you?";
+
+    __expected = "i h8 r@s & U";
+    break;
+  }
+  case 1: {
+    text = "What is the weather like today?";
+
+    __expected = "wh@ is the we@her like today";
+    break;
+  }
+  case 2: {
+    text = "It is not too late to..";
+
+    __expected = "it is not too l8 to";
+    break;
+  }
+  case 3: {
+    text = "this text is already in sms language";
+
+    __expected = "this text is already in sms language";
+    break;
+  }
+  /*case 4: {
+    // Your custom testcase goes here (don't forget to add to num/runTests below)
+    text = ;
+
+    __unknownAnswer = true;
+    break;
+  }*/
+
+  default: return 'm';
+ }
+ return do_test(text, __expected, __no, __unknownAnswer);
+}
+
+// Tests total:
+int      numTests  = 4;
+// Tests to run when there are no arguments:
+set<int> runTests = { 0, 1, 2, 3 };
+
+//------------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+#include <vector>
+#include <set>
+#include <ctime>
+
+template <typename T> string pretty_print(T t) { stringstream s; typeid(T) == typeid(string) ? s << "\"" << t << "\"" : s << t; return s.str(); }
+
+string colorString(string s, int q)
+{
+    if (q == 0) {
+        //neutral
+        return s;
+    } else if (q < -1) {
+        //bad (score)
+        return "\033[1;41m"+s+"\033[0m";
+    } else if (q < 0) {
+        //bad (single result)
+        return "\033[1;31m"+s+"\033[0m";
+    } else {
+        //good
+        return "\033[1;32m"+s+"\033[0m";
+    }
+}
+
+string colorTestResult(char r)
+{
+    string s = string(1, r);
+    switch(r) {
+        case '+' :
+            return colorString(s, 1);
+        case '?':
+            return colorString(s, 0);
+        default :
+            return colorString(s, -1);
+    }
+    return "";
+}
+
+char do_test(string text, string __expected, int __caseNo, bool __unknownAnswer) {
+ cout << "\033[1;36mTest " << __caseNo << "\033[0m: [" << pretty_print(text)  << "]" << endl;
+
+    SMSLanguage *__instance = new SMSLanguage();
+    string __result = __instance->translate(text);
+    delete __instance;
+
+    bool __correct = __unknownAnswer || (__result == __expected);
+
+    if (! __correct) {
+        cout << "Desired answer:" << endl;
+        cout << "\t" <<  pretty_print(__expected)  << endl;
+    }
+    cout << "Your answer:" << endl;
+ cout << "\t" <<  pretty_print(__result)  << endl;
+
+    char __res = '-';
+    if (! __correct) {
+        __res = 'X';
+    } else if (__unknownAnswer) {
+        __res = '?';
+    } else {
+        __res = '+';
+    }
+    cout << " "<<colorTestResult(__res)<<endl;
+
+    cout << "\033[0;2m===============================================================\033[0m" << endl;
+    return __res;
+}
+
+int main(int argc, char *argv[]) {
+    string result;
+    if (argc > 1) {
+        runTests.clear();
+        for (int i = 1; i < argc; ++i) {
+            runTests.insert(atoi(argv[i]));
+        }
+    }
+    int j = 0;
+    for (int i: runTests) {
+        while (j < i) {
+            result += 'd';
+            j++;
+        }
+        result += run_testcase(i);
+        j = i + 1;
+    }
+    result += string( std::max(0, numTests - j), 'd' );
+    cout << "SMSLanguage: ";
+    bool good = true;
+    for (char ch: result) {
+        good &= ( ch == '?' || ch == '+' );
+        cout << colorTestResult(ch);
+    }
+
+    cout << endl;
+    return 0;
+}
+// CUT end

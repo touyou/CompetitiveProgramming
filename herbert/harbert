@@ -1,0 +1,9 @@
+0021
+a:ssrsrslslsa
+a
+----------------
+0026
+a(X):sa(X-1)
+c(X):a(X)r
+b(X):c(X)c(X)c(X)a(X-1)b(X-1)
+b(25)

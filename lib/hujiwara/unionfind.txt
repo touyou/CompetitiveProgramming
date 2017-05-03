@@ -1,0 +1,39 @@
+
+int rf(vector<int> &uf,int a)
+{
+  int b=a;
+  while(uf[b]!=b){
+    b=uf[b];
+  }
+  while(a!=b){
+    int c=uf[a];
+    uf[a]=b;
+    a=c;
+  }
+  return b;
+}
+
+void con(vector<int> &uf,vector<int> &lev,int a,int b)
+{
+  a=rf(uf,a);
+  b=rf(uf,b);
+  if(a!=b){
+    if(lev[a]>lev[b]){
+      uf[b]=a;
+    }
+    else if(lev[a]<lev[b]){
+      uf[a]=b;
+    }
+    else{
+      uf[a]=b;
+      lev[b]++;
+    }
+  }
+}
+
+bool eq(vector<int> &uf,int a,int b)
+{
+  a=rf(uf,a);
+  b=rf(uf,b);
+  return a==b;
+}

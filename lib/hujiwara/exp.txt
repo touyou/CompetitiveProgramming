@@ -1,0 +1,10 @@
+int expm(int a,int n,int mod)
+{
+  if(n==0)
+    return 1;
+  int m=expm(a,n/2,mod);
+  int ans=(m*m)%mod;
+  if(n%2)
+    ans=(ans*a)%mod;
+  return ans;
+}
