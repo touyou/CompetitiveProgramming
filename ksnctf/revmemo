@@ -1,0 +1,14 @@
+0x80499e0
+0x08048590
+
+# base64、.decode("base64")などで変換可能
+# アルファベットと数字と=のみでできる
+
+# uuencode, Pythonで.decode("uu")や.encode("uu")で変換できる
+begin 666 <data>
+51DQ!1U]&94QG4#-3:4%797I74$AU
+
+end
+"SELECT * FROM user WHERE id='$id' AND pass='$pass'"
+' OR '' = ''"); $pass = $r->fetch(); $r=("
+' OR '' = ''"); echo($r->fetch()); $pass=echo("'hello

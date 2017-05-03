@@ -1,0 +1,7 @@
+  int a[SIZE]={0};
+  for(int i=2;i<SIZE;i++){
+    if(!a[i]){
+      for(int j=2*i;j<SIZE;j+=i)
+	a[j]=1;
+    }
+  }

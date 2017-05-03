@@ -1,0 +1,2931 @@
+89
+Y X Y F D Y Y V D D L D V G G L D N V D Y D G V F F V F Y Q N X Y Y O L N Y D N D X N N O N O G L L L N Q N F X Q Y V G D Y L G N Q N F G V F Y Y Y Y Y L L G V L N V L D D Q X D
+6
+G G Q G S Q
+6
+Q G Q G S S
+66
+S E Z F U M E E G A Z X F W R G A E X E E S P M U T U E H G A R R D P P L L O I W H E U U O T L P W Z E L L P P Z O G I D U E W P Y
+6
+Q S S G Q S
+6
+G Q S S Q Q
+6
+Q Q S Q Q S
+82
+Y N Y G N R V R N V V V G G G V N G V V R N N G N G V V S N N Y G G S V R G R V Y G V N Y V V Y G N V G N V N G N V G V Y V S N R V V V Y V Y G G V G R Y G R N N Y
+57
+X X K U X X H M B X Y K B H B U Y U V B X Z D Z K H D K K M V K B H X V V U H X K M Y D H Z X B B X K X X Y U X K
+93
+J T Q J J E Q T I N Q W Q T E F S J M G O N Q E S Y G Z H J N O J O Y J T G T T G Z G T O E I Z J N Y E E Y Y Z T T G J T W O J G I J Q M I J I S Z Q J H E Y M G Y Z F N I M G T T I G W
+6
+G G S S S S
+6
+G Q G Q Q Q
+6
+S Q G S Q G
+75
+T X I P P I T P B S J X Z H S I J R H P W T X J K H K X Q S K S X A I Q P P T I I W J B X J K I U I P U Z I T P B P K K T P B K I A B J T Y B S K T W
+6
+Q G G G S S
+6
+Q G G Q S S
+6
+Q Q G Q G S
+5
+L P L P J
+80
+P P K P O R H H N T O R D V S K P T A D A T O H H D C C N T P Y T T Z I A T H P O C T W T V H C Y H K H O O H I H C L V H M W D O T D C D V V W W C A C T H O N
+6
+S S G S G Q
+6
+S G Q Q G S
+6
+M Z Z M Z M
+6
+G G S G S Q
+5
+Q P Q P P
+5
+P L L P J
+6
+S G S G S G
+99
+Q Q J Q E E E J Q E E E E Q E E E E E Q E E E Q J J E Q E E J Q E J Q E E J J Q E E Q J Q J Q J Q Q Q J E Q E Q E J Q Q J E Q E Q E E E Q E E Q Q E E E E E E E J Q Q E E Q E Q Q E E E E J E Q E E E
+72
+K N T V T T B N N F N N I A G G T T S K T Z X B Z B N K K B G P I Y V I H N N A S N L V T S P L Z Y F S N Z L B U H B T A B F L U T N P P T L N
+6
+Q S Q S S Q
+5
+P J J P J
+58
+T L M P N K T K Q K R I P E K T F N I Z K P P Q O L P E Y O C E Z P Q K N K O N K B P Z T S O C D M C O N A F Q Y K
+6
+G S G Q Q G
+6
+S G G G S G
+6
+G Q G Q S S
+6
+G G Q Q G S
+54
+S Q A L A C U L U S K W U K L W F F S U W U W K S S K F F W C K K L L L U U S F W U U A W K W L S I A U W F
+6
+Q G Q Q S Q
+86
+T Z Z Z J I L L G D B S J C H L B Q T J N Q B T C R E R F N N E R W Q M E Y H B S Q H D A Z D N L M Y D H H D H D Z Y J B I H B M C J H D B T D Y Z Q E U Z D C A J B U F S
+68
+G T F F G D Z F G M D F N Z M I I M D Z G N T M M F C T F M N Z Z F G F M Z D I F Z D D Z D I C M G N G G P Z G F M G P D I G F F M N D
+6
+S G S G G G
+6
+Q S G G G G
+6
+G Q Q G Q S
+67
+I E O X O A D I Z S R O I S B O R S J L F O Z Q F L B R Z N S B H A Z S P O A I U I L Z H I O A O E U Y E U P F I S N K E I I M Y S O
+6
+G S Q Q S Q
+5
+L L P J P
+6
+Q G G S S S
+6
+G S Q G Q G
+6
+S Q S Q Q S
+77
+V M Q V D V M M M L W K W X M K X K M V M M L X V M D X D D D K M D K V L M L V L Q V Q M R R R V X D K K Q R D X D Q D D D Q K M K D V D D M M D M D V D
+6
+G S S G Q S
+5
+J P J J J
+6
+S S G S G G
+99
+P P P O O P P O P O P P P P P P P O P P P P P P P O P O P P P P P O O P P P O O P P O O O P O P P P P P O O P P P P O P P P P P O P P P O O O P O P O O O P P O P O P P O O O P P P P O P P O P P P P
+5
+P L J P J
+99
+J E J E J J J E E E E J E J J E J E E J E E E J J E E J J E E E E J J J E J E J J J E E E J J E J E E E J J J E E E J J E J J E E J J E J E E J E E J J J J E J E J E J J J E E J E E J J J E J E J E
+6
+Q Q Q Q Q Q
+6
+Q Q G Q S G
+100
+V Q Q Q Q T V Q Q Q V T V V Q V V V T T Q V Q T V T V Q Q Q Q Q Q Q T Q Q Q V T Q V Q V Q V V Q Q V Q V Q T Q Q Q V Q V Q V Q Q Q Q Q V V T Q T T Q V V T Q Q V Q Q Q T Q Q Q Q Q Q V T V V V V T V Q Q
+70
+A X H K A T C V Z T I E I I A Z E C Z J J A C C K V W C A K J J H Z U J A J V J A J A Z J E T H K A U H T A T W A T T H Z B Z B J X W K I H
+6
+G G Q Q S Q
+100
+I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I
+6
+G Q S G Q S
+6
+Q Q Q G Q Q
+5
+L P J P L
+97
+F B F F F B B B N B B H B B B N B B F F B H F N B F B N B N H F F H N H B F H B H N F F N B B H B B B F N F H B N B H B N F F B N B H B H N F N B B N F B B N H N B B H B N B N B N H B H F F B N
+94
+V O O O V O O V O V V O O V V V V V V P O O O V P V V V O O O P O O V O V P V V V O P V O O P V O O O O O P O O O O P V O P V P P O O P O V O V O V V V O V O P V O V P V P P O O O V V V P
+6
+S G G Q S Q
+6
+Q Q G G S S
+6
+Q Q Q Q G Q
+6
+S S G G G S
+51
+T T G T E G G E H T T T E G H H P P T H P P H T H T H H E T T T P P E P P H T T H E T G G P P T E E E
+5
+P L P P L
+6
+Q S G S S G
+83
+J B B J J O V O B J B O O B O O O B O J O J J O O B B O B J V O J O B B J O J O O J B J O J O J O B B V J J O O J J O J J B B B J B B J O J O B O V J O O J O B V B O
+6
+Q G S G Q G
+6
+S Q Q G Q G
+5
+L L P P L
+57
+W W L H F H G D Y H D V K L K J X G W X C L V W M W L X U Q Y G H Z W L J G W G Y N H V G C R W W H Q X U A D A H
+6
+Q S Q G G Q
+6
+Z Z Z Z M Z
+6
+S Q G G G Q
+5
+L P P L J
+71
+O P S S P J S J O S O J S O O S S J S S P S S S P S J O S J J S S J S S J O P O S O O O P J O S J P O P J S O P S S P P O O S O S S J J P S O
+6
+Q S Q G S Q
+6
+M M M Z Z Z
+6
+Q Q G G Q G
+62
+Z D T G Q T B K Y R M M X X U V Z P L L T P P M V H S Q F G N K L U C A U D T O U D Q G J Y Q Y F H F V X W C S E F Q H Y H
+6
+Q Q Q G G Q
+6
+G G G G Q Q
+5
+P P J J P
+6
+Q Q S Q S S
+6
+Q Q G Q G G
+6
+G S Q S S G
+6
+Q G S Q S Q
+66
+D X J L Z F D C U C V C L L V L E V M Y V U E T V T Z L J C T F Z U U E D M L D T F L X F Q J W Z U E C Q G C V T T Y E X Y Y D A L
+6
+S S S G Q S
+6
+G Q G Q G Q
+100
+S S S S S T T S S S S S S S S T T S S S S S T T S S S S S S S S S S S S S S S S S S S S T S S S S S S S S S S S T T S S T T S S S S S S T T S T S S T S S S S T S T S S S S S S T S S S S S S S T S T S
+6
+Q Q S G Q S
+6
+Q Q S Q S Q
+6
+S Q Q S S Q
+5
+L J L P J
+6
+S Q Q Q G S
+5
+J L L J L
+6
+Q S S Q Q Q
+5
+P P J L P
+99
+W B B W B S B W B B B S B S B S B W W B S B B W W W B B B B B B S W S S W B B W B B W B B W S B B W W B S B B B B S B W W S B W B B S W W W B W B B B B B S B B B W B S B W B B W B B S B W S B W S B
+6
+S G S Q G Q
+83
+E X H C X R L Y L L L X R C X T H T T Y H L Y Y J V L L X Y E V Y T H L L J P V H P H T P E V R Y V X E T O Y Y L L L T C X H O T R X H V X H X X E P T R X Y L Y O Y
+74
+Y C I Y Y T Y P Y O W A M H V V D O Y F P Z T V Y I R I K R C B P C C K W V P B P G D K W O T U P Z X K G F T C K D V C Z V V P W M V M G L D U Y U
+5
+P P P L P
+5
+L L J L L
+6
+Q Q G G S Q
+6
+G Q S Q Q S
+6
+S Q S S Q S
+61
+L M K O R L Z L V T A O R I R L A A X O T X F R V I T B M I K L Y Z K I V R R T K B T T I A L Y V U R T K R M K K A V T Z
+5
+J P P L L
+6
+Q G Q Q Q S
+98
+N N X N X N N X X X X X X X X X N X X X X N X N N X N X X X N X X X X X X N X X X X X N X N X N N N X X N N X X N X N N X N X N X X N X X N X N N N X X X X N X X X X N X X X X X X N X X X X X N N
+5
+P P L J J
+56
+T C L M M U C I C L P M I P I L U M L Q M C L I P L L M M P P L C M M L P M U L C T M U L L T I M L G P C I L P
+6
+S S G Q S Q
+6
+S G S S Q Q
+6
+S S S G Q Q
+6
+S Q G S S Q
+6
+S S Q Q G Q
+6
+Q Q G G G Q
+5
+J J L P J
+5
+J P P P P
+6
+Q Q Q Q G G
+6
+G Q Q Q Q Q
+6
+S G Q Q S Q
+6
+G S G Q G G
+6
+G S S S S Q
+5
+P L J L J
+72
+U J G U U J J R U J J U U R U R J J U U R U U T J T J R U J R J G J J T U R J J R J U T U G J J U T J J J U J R U T G U J U U G G G J R U J U U
+5
+L L J J L
+83
+F T I P Z J T L Y W F A P Z S T T L S Z Y S Y V M P T T F O I F A F P A A T F F M A F X F F L S F F T T A L K A P A Z T V S G W A Z X A V Z W M Z M W Z F A L T W K P
+6
+S G G Q Q Q
+6
+Q S S G G Q
+6
+Q G G Q S Q
+5
+Q P P Q P
+6
+G S G S G S
+78
+R Y Y R R Y R R R R Y Y R R Y R R R R R Y Y R R Y Y R Y R R R R Y R R R Y R R R Y Y Y R R Y R R R R R Y R R Y R R R Y R R R R R R R R R R Y R Y Y Y Y Y Y R
+5
+L J J L L
+5
+P J J J L
+6
+Q Q S S Q S
+6
+S Q Q Q Q Q
+6
+G Q Q G G Q
+5
+P P J L L
+6
+Q G S G Q Q
+6
+Q Q G S S Q
+5
+Q Q P Q P
+88
+F R P K A C P L Z F Q W E W M N X D G L T B T Z Y D P S C P Z L O X S E K K R S I U U V I N S R F T Y F Y G S C L Z X G Y D R M Y I C T P U O I S U S G S L Y X P F Y U P Z Y L
+74
+A N V X K Y I B M I P A Y B B X B L R R C N I C Z S R O R S I X O Z I P V M L X V C F C P K D A N O O T O I X O N Q Y Z L V O S H I V P O F O A R I
+5
+P P P P P
+6
+S G Q S Q Q
+5
+P J P P P
+6
+G S S Q Q G
+6
+S G Q S Q G
+5
+P Q Q Q P
+6
+S Q Q S Q Q
+5
+P P L P P
+6
+G S S G G Q
+5
+P P P P P
+6
+M M Z Z Z Z
+6
+G G Q G G Q
+94
+A X T E A R X W Z V V N A U X F A D S T T J T L Z C K P E T K T S B R T R P O H I E V E N A S L B L F E G F A V A A G T H Z L W Q T X N I D Z J L Z T D Z V H D G B Q D M G X Z L B K N V K
+6
+Q G S Q Q G
+5
+P P P Q P
+6
+Q S G S S Q
+6
+G G Q G G G
+65
+E E S L P T B D T L L L D P P L T C C Q S X S X D H Q B X X H Q E H E E B A Q B J P A L M B P I P Q J B C J B P P D L P C E E E R
+6
+Z Z Z Z Z Z
+5
+J J P J J
+63
+F N B B B N N B N N N N N B R N B F B F B N B N B B N B N B N N B N N N N R N B N N N B B N N B F N B N N B N N B R B N N N N
+5
+P L P L L
+84
+B Q G J I R R B D D R Q D Z J Z B Q N I G Z I B R Q I J R B Q I Q D D Q R Z B I B Q R B B I Z D B G D J V C B I I J I Z Z R B B J R D I Q J Z G R N I R V I R B J D Z B
+6
+G Q S Q S S
+95
+D Y M L X D N D X D L W L T Y Q T D W F D I N H F T T L H N D S F N Y W Q M M L Y M L Z D M F Y A A W T N D N A Y W Q M Z Y F Y M M C S M W M N D H A C M C M Y M D Z F X L D I I N X Z I I Z
+6
+S S G S S Q
+6
+Q S S Q Q G
+6
+G Q Q S Q Q
+5
+P P P Q Q
+6
+Z Z Z M Z M
+72
+M T J U Z N M X Q R J Z Q Z N U T A N Q U M R R M Z U Z R M M A R Q R R R Z X Q X T R W A M W Q Z Z Z M N M Z R U X T A W W Q T A M Z J Q U N M
+6
+G S Q S Q S
+6
+Q Q S Q G Q
+68
+Y T C R C Y E T W E R W Y E E E R V Y Y V Y O Y W R E W E R Y R T Y E T V V V C V T C W V W W C T R E T W T E Y C Y E V E Y Y T O Y V E
+6
+G S Q G G S
+6
+Q G Q S Q Q
+6
+S G Q G Q Q
+6
+Q Q Q G S Q
+5
+Q P Q P Q
+6
+S S Q S S Q
+6
+Q S G Q S G
+91
+E M U D L N C P A J T L Z K Z H J F H P P N P C P X V T M C A J R H S Q V B I F C I P A T M L V R L T D R J N S M M F W X W L H B X E A I Q F M A F Q Q L D W Q Q P R E N B Q Q T E A
+85
+B M B B B B B B M B B B B M B B B M B B B B B B B B M B B B B B B B B B B B B B B B B B B M B B B B B B B B M B B B B B B M M B B M B B B B B B M B B M B B B M B B B B B
+6
+Q Q Q S S G
+83
+F A F O R I F K F Y R I O I R S U Q Q C K C S K Q S F K E Z A C A Q D S M O O I A A T C I C Q P S F O B P O O H I D S P S C Q R F Q O S C M F P R Q F B P D B F K Q Y
+6
+Q Q S G S G
+76
+K P Y U C U F M M M A W O O N N U W G A V O M P Y G G S O M V S Y Y K M W H P U N F H P I S I Y Z O S N A P P M Z H V I U S Z G U J P O F U R G S N F N
+6
+Q G G Q G G
+6
+S Q G G Q S
+50
+Y Z M Y G M U V V V V M U Y M G Z Z U Y M Q V M Z M Q V Z Z M V Z U Z Z U V Y V G V V Z Z G V Y G Z
+81
+K H J F J W H H I H A J T O H L W L Q D H K T H T A T T A W K J I Q D R R N D J I J C I J T M L W A U I M I I K J I H I T A J U N W M J M R F I K I A H J T J A H
+5
+P J L L L
+6
+Q S G Q Q G
+5
+L J P P L
+5
+J J L J J
+5
+J L P P P
+6
+S G Q S G S
+67
+L R S B G Z G M I G P M M P L S L G Q T Z R Z Z U L Q Q P T I M I U H T L T P Q I U T Q G Q V R Z Q G Q I V I Z P P Q L I V V T S T B
+5
+P J L L J
+6
+Q G Q S G Q
+96
+I F P G N R M I N I N G D P P X M H G Q Q Q U G F Y Q F F F T I G F H C F H D Y N G K R C F X F G V K F P D G D V Y I M H P G P D Q V X P G Y X D S Q X H D N H N V H L F V S V U F I J Q Q H N
+6
+M Z Z M M M
+6
+G Q S S G Q
+79
+W X Q X Z L F O G R H Q M X F T O B V Y A X V L Y X O X R H M V O R A X L L G B H K I G H I G J R Y G B X M T Z L O O J M A Q I J Y D V Y O O T L E W X M B G
+6
+Q Q Q G G G
+92
+K V W P D J W P V W I P D V D I W J K P I P I W W P P P P I I W K P P P V K P P V P P V P W K V P W K P I P J I J J V P I K J I I W P K P D P J W I P P K P D J P I W I J V I W J K I K
+87
+I M I M M Q M L M I L I Z L Z I L M Z I Z M Q I Z M Z I Z I I I L M M L Z I L I L Z Z Q I I I I I L I I Z L M M L L Z M I L M M Z Q Z I L I Z M Q I M I L Z I Q Z M M Z L L Z
+5
+J J L J L
+6
+Q S G Q S Q
+5
+L J L P L
+6
+Q Q S Q G S
+6
+Q Q S G G S
+80
+L L L A Y L Y L L L L Y Y Y L Y Y L L Y Y L L Y Y L L Y L Y Y Y Y Y L Y Y L Y Y L Y Y L Y Y L L Y L L A Y Y Y Y Y L L L Y Y Y Y Y L L A A L Y Y Y Y L L L L L L
+83
+H G H I V U K Q Y B Q G B Z Q B B T U Q B V D U Z J Z O D D K K V Z H H T H I I U Z Q D Q Y V V B V Z D B V F H V I V K K B V D F V U Z K B V T Z U V Q H V V B Y M H
+6
+Z M M M Z Z
+6
+Q S S G Q G
+5
+J J L J P
+6
+G G Q Q Q G
+55
+M M J U P C J C R D R J X J R U G K M D K M C P R K U M W J X D G X C C L E P D M V W O U W K W P R F F C G E
+6
+G G S G G G
+5
+P P L L P
+6
+S Q Q S G Q
+6
+Q G G Q Q G
+6
+Z M M Z M M
+6
+Z M M Z Z M
+6
+Q S G S Q Q
+97
+J K M K B B M B T H Q H L U J T F B M M B S H H V T Z X K U V K J D H J T Q K L R H B H M P X U Z J H M C P C X A D B E D X H B U U N D L X T N E D P V A T M P M C Z P Q V H W D T C Z E V C T S
+6
+Q G S S S G
+6
+Q Q Q S S S
+6
+S Q G S S S
+88
+I N D O A O F R P S I S A A S O R A A W S A X N W A F A P P A A W F A Y S A X N A A F S F W P X P O O D P O F P R A A O D W P R W O O O O D R R R W W I R S I W O A N P O R W A
+6
+S G S S Q G
+6
+S S S Q G Q
+5
+L P P J P
+6
+M Z Z Z M Z
+6
+G Q G S Q G
+6
+S G Q Q Q Q
+89
+Q V D V J I I Q Q I O J Q Q J Q D Q Q J J V J V D O V V V Q J D V V D D Q J Q Q J I D D I D Q J Q J V V V V Q Q J D V Q O J O D J Q J J V V V D D D J D V D D I O I D J V V J V D
+94
+U U Y G U Y G U U G G U U U U G U G Y G G Y G G G G U Y U U U G G Y U U G Y G G Y U U U Y Y G U Y U U U U U U U U G Y G Y U G U U Y G G U G G U U U G U Y U Y U U G G G G U U U Y U U U U Y
+6
+Q S Q S Q Q
+5
+J P L L P
+6
+Q S Q S S G
+5
+P J P J L
+6
+Q G S Q G Q
+6
+Q G S Q Q Q
+59
+W U W L P V U J Y I O P O B F G H W H U J U I X R V O W B J U Z S P F F F H Y L V F P Y I F J F U T L P W W O O P T T
+60
+X A Y T E J Y E A L R O T R E D X J Y R D V R D A D C J R L R J L X R E A V D T D J A V L V L X C V Y X R R X O D J R D
+75
+G H N M P O S J D W N T D G H H S G H E K M T L S D D W V O H A T H T G G P O A H Y E L Y S F M Y P J P T D K D E J K Y T T L R E L E J A D N Y T K K
+6
+G Q Q Q S S
+6
+Q Q G S S S
+6
+G S S S G Q
+6
+G Q S Q Q Q
+5
+L J P P P
+6
+Q G S Q S S
+6
+Q G G G G G
+68
+N K K N Z C Q U A J H N Y H H A N H J Z Z K Y H S H Z A A K U H A E Q E C Y Y H C B H C E Y Q K N Z C A W W Q E Y N H Q H Q U C Z N W A
+75
+O K P R W U M J U W M X P T R F X K L U Y Q A U O N K K H Y T K T W W Q M B M C J Z S L X R P Y O A W B I S R K F C R W Y B X I M Y C H K N G P U H O
+6
+S Q G S S G
+79
+B L C M G B A B I A Z Y B A Q G S Y U M C E A V L R Y L F B W M F L X A T B L A M I Y B G X V L G N S O I U B R A L B L U O A B I C C W M O O M Z R O W R I J
+6
+S S Q S G G
+6
+S S Q G S Q
+6
+S S G Q Q S
+51
+H Z F T N P Q L U B H V U A U N J U S O B X Q F H C Q U D J F A H B W F N F Q P U N F S H Z H C G A Q
+5
+J J J L P
+6
+G G Q G Q G
+79
+K Q H A K B H Q O K O B P Q I K S P A P K E P T E Q I H Q A A K K K P E S T H E Z P O M K Q E B W K K E T T G X M R G T P Q K Q E T P G K P G S M R S H A Y P
+5
+P L P L P
+6
+G S G Q S G
+6
+S G G G Q S
+54
+U V I V S I P V S F F Q V P I O C D W L V G L D Q I Q U J J I O L L J G U U S F V E J I J O F S G O G U F Y
+6
+S Q Q S Q G
+6
+Q Q G Q G Q
+5
+P P P L L
+6
+S Q Q G S Q
+73
+M W C H W H Y I E E O P Q V O T B N M M O Y Q T I B V O T S R O H M C J D S Y Q K T F S J T V J W M V A W V B H P J Y A J J L O Y X Q X M X X C V
+6
+Z Z M M Z M
+6
+Q G S S Q S
+6
+S S Q S G S
+6
+G G G G S S
+6
+G Q G S Q S
+5
+P J P J P
+5
+J J J L J
+5
+P J L J J
+75
+P J K F N P O Z T R F F Q F K L P D B T A G L J Z Z P S F D U A P J D G R Z Z S T G G J P O P F G M U B J D Z F D B C H G H D K L Q G Z F P D L J R S
+5
+P J L J L
+6
+Z M Z M Z Z
+6
+Q S Q Q G Q
+63
+D Y B I L D L E Z T D G Z I C D T T Y G T L Y L L Y L Y D Y Y E Y L I Y C G Y B L B Z Z G E T C Z B G D T T B C D N T N E D C
+6
+Z M M Z M Z
+5
+L P J L J
+6
+M M M M Z M
+6
+S Q G Q Q G
+6
+Q G Q S Q G
+6
+Q G Q G Q S
+68
+R X U C E B T B K H S N K G Z Z A C W B T U H G T H H A A G W S T R B R C R T S U T W G Z U T E X E A A H X T U H T R U E B B T T U B E
+6
+S G S S Q S
+57
+H J R H G H G Q J J G H H X M R Q Q M A U U U Q Z U Z G N N U N G G Q R N G X U Q Q J H H G M Q I M U G N R Z M G
+6
+Q G Q S G S
+60
+R W X J R S X J N R E N J W J W U J W J J S X W W W W J X X W J J W J W N J W S S X S C R J J J J C J J W W W W W C C X
+6
+G Q Q Q G G
+6
+S Q S Q S S
+5
+P L L J P
+6
+S S G S G S
+5
+P P P P Q
+6
+G G S Q G Q
+50
+I S H Y V T K I A E S E M E M E O Y I L L B Z D X R E O E T Q E M X T Q Q R I S V I D N I M E I S S
+60
+Y L Y L Y Y Y Y L Y Y Y Y Y Y L Y Y L Y Y Y L L Y Y Y L L Y Y L L Y L Y L L Y L L Y Y Y Y L Y Y L Y Y Y L Y Y Y L Y Y Y
+71
+W X C B C L B P H H W S A A S A W A G V I C M Y X L U V J Q V A I T O J V Z J R A J C S O A V O I V A S A P L A X S J P V V D Z P X C C Z D S
+65
+B H Z V H G D V I M P B V E Q J P A E M P V V J P H J I J B D T T T P K Y E E I T Y E E M V Z O U P Z B I Z I A H H B Y V Y T M T
+80
+R O B Z Z R C E R U Q V B R C R Q G V P P D G R C O C V R C S E K U Z C S S Z H Z B Z C E D C S V G H O R P G E E C Q Y K E S R T Q V C S R B Z S K D V P B K G
+5
+J J L L L
+6
+G S S G S Q
+6
+S S G G G Q
+6
+S S G G S Q
+6
+M Z M Z M M
+6
+G G Q S G G
+67
+J D Q D Y D C G Y X L D W Q D Q G C Y N N P W D C Y G Q J D L W P G A X N L Y G L N D Q L W C D G W A A W A A D N W Q C X D D D L D Y
+5
+P P J P L
+6
+Q G G S S Q
+6
+S G G S G S
+5
+J P L P L
+60
+P T M A T I B L M B A Z D L Q U F A L G W G W Y N T I T B U M R U B Y J M M L G F L B B T R N T B P B F T W O F T R C L
+6
+G Q Q S G S
+6
+Q Q G G Q Q
+6
+Q S G Q Q S
+5
+L P L L P
+6
+S S G S Q S
+6
+S G Q Q S S
+93
+A K U K T S V D I I U V V S D H Y A X I S Z V F C K T Z X C U H M Y S S C Y X U Y C Z K X F F E M I W T Y I U Z F W U F H K S X H V K R F H C U T S F Y K V Y H V V D I H Y Y V Y V O S M
+6
+Q G Q Q Q G
+6
+G G G Q Q Q
+6
+G Q G Q G G
+74
+Q Q T B T L Z H S X I Z L X S I L X T X Z X L Q T Z Z L S I B H S I Q L X K J X Q J Q B V N A T J S K A V K R L T L S Q T M H L L X T K L L X Z H X
+6
+Q S S S Q S
+6
+S Q G Q S G
+5
+P P J L J
+5
+P L L P L
+5
+J J J J J
+6
+S S S G G G
+100
+Z M Z G T K K F K K F K O E B P R G K C P T D F R J T N B K R K J S K B K E X T R T K G T P U Z O S A R P C A C U A J M P N K M D C P B W F G J V N V V O F P Z J W Q V I P A V R S H D K E M P P Q K T
+69
+R M M M M Q W N Z T E K T K V Q V V V M P W V Z Y V Y W G K R Q T Q Y I A W P Y J N Q M V A I Z Y G E Q Q V Z T Y E I W K M G Z A A R Y Z
+6
+S G S Q Q G
+6
+Q Q Q Q S S
+6
+G G G Q S Q
+60
+N U R A N U R P R I E A N I U X C I L I C L E U I E N I I D E U K N C P A C E K E P A C P K U U I I R N E L A L R R L U
+6
+Q G G G Q G
+84
+T F N H D T W N P F N E Q A T F D C L G L H D W F T C L Z G C C C J M X L Y M H T M E P L E H X F A L L M W H K D W L F M H N S C Y W T W T P T T Z Z K C Y N W N W G M
+5
+L L J L J
+6
+G G G G Q G
+58
+Q B P D G D J G J W H B D K Y M L L W G B W I B H K Y D F V U Y K K H F K I I W M W U U H G J L W Q V H P I D U P Q
+69
+I I I I G I I I I G I G I I G C I I I I I I I C C C I I I I G I I C I C C I G C I I I I I I I C I I G G I G I I I I I I G I I I G I I I I
+5
+L P P P L
+1
+M
+60
+S K N L P T T X I H U K K G T H E G T M P W H L P H Z G I K S Q T Z Q K O M K T T K L P K E M O M N E X P P M X H N I X
+6
+M M Z Z Z M
+6
+G Q S Q S Q
+6
+Q G G Q G Q
+6
+S Q G S Q Q
+6
+S S S Q Q S
+58
+L F T L D F F F F D A L F F F D D D T D T D L D A L T F F T F A T F D A A A L A T D T F L T L F D T F F F T T T T T
+64
+X G G J F X Q T L B M S J Q O J L Q G A Q F L A F Q E S O A A X X O E M E X M F M Q A H S A X A B B E O L O G F Q M B X S F M F
+53
+S S R U H G P R W X Q Q Y T T Z P Z L L Q M Z M L K H K P L G N G Z A P A I Z L P G S S W X N T P Y Z Y L
+52
+C I M I I Z M S S Y H I O Y C S C S U U D N C C C Z Y N H C Y M H S N Z Y I O S O D N O C C C D G D Y S
+6
+S G S S G G
+5
+J L P J J
+6
+Q Q S S Q Q
+6
+G G S S G S
+5
+J J L P P
+68
+M H O M H M C J J H M O M M A F J K Q E J M E B B B B M O C J M H M E O C P H K B A E M B H H M Q H B C H F R I B F H B K Z A E I H C H
+5
+P J L L P
+6
+S S Q S Q Q
+6
+M Z Z Z Z Z
+68
+M D N I N N N F D N S N S S M N S F N N F F F M M F N F I D M R D F S M N M N F S R F N M N M N F F N N F M F N F N N F M M M R N F M R
+59
+T P U S X H E X W H J Q K U S Q T X N P X D P P A H K H X B S B J A D F E D K F G T A D B J N E G J R B L A J H Q B T
+75
+J Q O I G M Y Y X B O M N F I I V U C O N J L O I T G H O E F J L X X T G Q I U F T Q X Y F Q X H G F E X X F S V X H M Q L H F H H F M H M I G V G H
+6
+G Q Q G G S
+66
+Z A A A A A Z A Z Z A A A Z Z A A A Z A A Z A A A Z Z Z Z Z Z Z Z A Z Z A Z A A A A A Z Z A Z A Z A Z A A A Z Z A A A A A A A Z Z A
+6
+Z M Z Z M M
+6
+S S G S S G
+6
+S Q Q S G S
+52
+J J G W C C W B Y J R F E W Y K C G B N G J N B E G W N X Y B B R W X O Y G X Y R E F J C B F Y B F J C
+5
+J L P J L
+6
+Q S Q G Q G
+5
+P J J J P
+53
+N X X F K F N R N X X Y X K Y F K K K R Y K F R K R K Y R F Z Y N F X R X R R Y X K N N F F F K Y R Y N F
+74
+W I C M W D U W Q D D I Z W H M H N C I Q I Z E R Y Q N R V R W Y U N E Q C U C M N R U Y W H W Z N Q D V E H H C Q H Y Q N Y N H Y R Z U I C W M N
+70
+T P P Q P T R Q V X R G T T R X P X R P V G P G T V P X P X X P P Q X P X R P Q T G Q X T N G Q R G R Q P V Q V P Q Q V G R T Q D Q T T T P
+6
+G Q Q Q G Q
+71
+P Z F O D O P L R Y R P P U T F L Q F O Y O Y N R Y P N L F N R U L P O D L D N O V F U L T Z D U L F Y P L F F Z F L F N T F L V R F P F R L
+6
+Q S S S Q G
+6
+Q G S G S Q
+6
+S G Q G S G
+52
+K G E S K S E P A G S S K E R A E T T G B R E G G G S R A P T K P T G A E A T R E P H G T P G S B G A T
+6
+S G S G Q G
+6
+Q G Q S S G
+71
+W Y J K F B E Q I E S Y B X C L T A S W E W X D W Q C X Q N N F S C E Q I P P S J B X O Q N G J K M B D B E V O Z O P G Y B Q S Y O C C Z J C
+6
+G Q G G Q Q
+6
+S Q Q S Q S
+6
+S S Q Q S S
+85
+X J W T E N W N B L I T S V F W S Y C T V Y F B W X X N B L V W N N N B C J V X T L N X O S F T N X N X T W I F E L Y W J J E W E Y L S C X S F E V V N X S W E V L C W T
+82
+W W F W F T C L L L G C W D F Q D L T L L T D W T Q T B L X L F G L L L B C L D F F X X W F D F D T Q D L L L D Q D L B D D X X T T D T F L D F G F F G T C L F T F
+6
+S G S G G Q
+6
+Q G S S G Q
+6
+Q G Q G G S
+5
+P L L L L
+6
+G Q G G Q G
+6
+S S Q S S S
+53
+H K K H H W H H K H H T W K K K K K H H H H K K K H W T H T K W K W W K K H T H H H H K H H H H H K W K T
+98
+A H V Z D R H L V D E L F H L S R P S H A Z D W F A V S W E H W D F V V W E P N F P R A D V A S W Z H E S V N E L Z P D H A N A Z F H W N F P E S L V H A A N N W W E Z E E A E S A R E E H Z R A Z
+6
+Q G S S G G
+100
+M M Y M Y M Y Y M M M M H Y Y H Y H M Y H Y Y Y M Y H Y M Y H M M M Y H H H Y Y M M Y M H M M Y Y Y M H M Y Y M H M M Y Y M Y Y Y M H Y H Y Y M Y Y H Y H Y M M M Y M Y H Y Y M M M M H M H M M H M M Y
+6
+S G G S G G
+6
+G Q G S Q Q
+91
+B C J B E R Q K H P I P M C G M R K I C G X G H D D M B C E M U U G J H B D D R L R M J C J G L G R M M J M C M X M R P L C U Y Y G E C F D C X Y H H M S M S L T Y S R X G Y Y J R I
+6
+G G Q Q S S
+6
+S G S Q G G
+5
+L P J J J
+6
+Z M Z Z Z Z
+6
+S Q S S G S
+5
+L P J J L
+6
+G Q G G G Q
+5
+P P J P P
+81
+B W X J K F X J K C R T O T G V J M L T U G G Q T D O T I K V B Y W C Y V V D D L V J G V W V D J O V V N W N L R B I F D Y F L I F O L L J H F D L Y U N Y T U J
+6
+Q Q Q Q S Q
+6
+Q G S S G S
+5
+J L P J P
+6
+Q G Q Q G S
+5
+L P P L L
+96
+U G V F F F U V P V H U P U U F U U P P U V P U V F F F V F P P G G U G F F F F V U V U U V V F F P G F K U P P U P G P H G K P G U F F G P P P P U V G U U U P H F V G U K F P V P H P F F F P
+6
+Q G S G Q S
+6
+S S Q Q G S
+6
+G Q G S S S
+6
+Q Q S Q G G
+5
+L P P L P
+6
+S G S Q S G
+6
+S Q G Q G S
+6
+G S G S G G
+6
+S G Q S G Q
+5
+P Q P P Q
+6
+Q G G Q Q Q
+5
+P L L P P
+5
+L P L L J
+6
+Q S S S G Q
+5
+J J P J P
+6
+Q S S G S Q
+6
+G S Q Q G G
+58
+Q D X Z M M W M M M Q X Q E E D Q Z J H J Y R L I J B F J R R X D D C D B R D J P W E W K L C J I R W Y O M W J O N
+6
+S Q Q Q S Q
+6
+G G Q S S Q
+5
+J P J L P
+6
+S Q G S G Q
+6
+Q G G Q S G
+6
+S Q S G Q Q
+6
+G Q S G G Q
+63
+G G Z Z Z G Z Z G Z Z G G G Z G G G Z G G G G G G G G G G G G Z G G G G Z G G G G G Z Z Z Z Z Z Z Z G G Z Z Z G G G Z G G G G
+6
+G G Q G Q S
+6
+Z Z M Z Z M
+6
+S S S Q Q G
+6
+S G G Q Q S
+6
+G Q S Q S G
+6
+Q S Q Q Q S
+27
+P Q E B C S L T A V G U W K I H R F J Y D N Z X M O M
+97
+K Y K Y K K Y Y Y Y Y K Y Y K K K K Y K K Y Y K K K K K K K K Y K K K Y Y K K K K K K K K K K K Y K K K K Y K Y K Y K Y Y Y Y K K K K Y K K Y K K Y Y Y K K K Y K K K Y K Y Y K K Y K K K Y Y K Y
+98
+W A M W I Z Z T A A W Q A T T I G Q M P N Z E M G W M A P K M Z A M T A G A Q E E W T P Q N M Z I M P Z Z T Q N N Z I Z P M Z Q M I A W R E Z E N E Q W E W E Q N G G W A Q R I I M W Q Z Z R K I E
+6
+S Q Q Q Q S
+6
+G G G S G S
+63
+U Z D B U P M W F A T X Q V X C D M X F B P F R M D D W Y B M J F O Z D F O G M X V D Y F U F B Z R H E E D P A Q A U Z X F D
+5
+L J L L J
+6
+Z Z M M M M
+6
+S S Q G Q Q
+70
+C H R C Y C Y N M M X R F I X U X L W H K Y L U W B N R G F Y Y G Q R F U T G H S Z L P O N Y R N O V Z N V M H Q B F Y Y Z S Y T D Y W U C
+6
+Q Q Q Q Q S
+5
+P P P J P
+6
+M Z Z M Z Z
+6
+Z Z Z Z Z M
+56
+X Z B C K G A K K C I E A G G H Q L T C T T A Z L M U C A M R K K Z O H A B Z Z B D Q A U O M O C W M C K L I O
+5
+L P J P J
+68
+Z G G L G T S T H U S Z X Y Q Z D X S S W Y S C T L A P S J G K G P V W M Y W S B G V U Z C E K Z G B P C X C A H B A K X Z S B S F E S
+6
+Q G S Q G G
+6
+Q Q G S G S
+98
+H E Z U C T T V N V L C E K I K W E S G Z S M B M O C A I S C H K K I M I R E C E C C I V V Q J P E D N B O E R L R K R E Y Y Q T W G Z H M N W N D I L Z Y Q W S L E N Y L Q C Q Q F K E I Z E N G
+75
+N V V B K E K I K N A N E J O N B E S T V S J A E Q Q E N L N J B J O O W T Q Q B I E E L E Q V J Q W E O W T S B W E I J W L B S J E Q K K B Q T B O
+6
+Q Q G S G G
+71
+C C C E C C C V C C E C E C E C C C E C V E C C E V E C C C C C E V C C E C C V E C C E C C C E C E V C C C C C C E E C C C C C C E E C E C C
+79
+Z Z Z Z Z Z Z Z Z Z Z I I I Z Z Z I I Z Z Z Z I Z Z Z I I Z Z Z Z Z Z Z Z I I Z Z Z Z Z Z I I Z Z Z Z I I Z I Z Z Z I I Z Z Z Z I Z Z Z Z Z Z Z Z Z Z I Z Z I
+5
+L L L J P
+51
+T N C X M X W K K K K C W W L W N T H D D W M J N N W K K N D L K J W W L W C K X W W H M O C X H M N
+56
+L L D P H Z J L Z L O P O E L Z O L Y Z Y D H D J Z J Z Y H D P Y Z J J L Z S Z H L D H D J J O P Y H E O L Y P
+5
+L L L J J
+89
+B C I A D P I P I R H Y F I V F K A R I G R P F K F C M P R L C M N D I K N P C C W Y C Q D I I W D A G R I Q E Q D W Q R L B X N D X B N Z W Q I F D R P U B O P R K V V R K D Y
+6
+Q Q Q S G Q
+67
+T D D T Q T T T D Q I T I I T G I I T Q T D G I G T I T T T I G I I D T I G D Q I G I I D G I D D I T Q T G T T I T G I T D Q T T D T
+6
+G S Q Q G S
+6
+S G G S Q G
+5
+J L J P P
+6
+S Q S Q G Q
+6
+Q S G G S S
+6
+Q G G G S Q
+6
+G S G S Q S
+6
+Q G Q Q S S
+6
+S S G Q G G
+6
+Q G Q Q Q Q
+5
+P L J L P
+84
+O Q Q X K X O O Z Z K K Q X Z Z S X K Z K K O S O Q O Q Q S O K Z Q Q O K O O O S K S K S Q X Z Z O O K O K Z X Q O Z Q Z Q K K O O Q O X Q K X O X K Z X K X Z X Q K X
+5
+L J P P J
+5
+L P P J L
+6
+G Q Q Q G S
+74
+S N N N A C N O S S N N S S N N N N O N N S N C C N C O C C N N N O N N C N C C O S C O O O C A S N N N S N C A N C N O O O S N C N N A N S S S C C
+6
+S G G G Q G
+5
+P P P P J
+5
+J L L L J
+6
+G Q S S Q S
+6
+Q S S S G S
+6
+S S S S Q S
+6
+S G Q Q G Q
+6
+Q G G S Q Q
+6
+M M M M Z Z
+6
+S Q G Q G Q
+6
+G S G Q G Q
+6
+M M Z M M Z
+5
+P P Q P Q
+5
+P P P J L
+6
+Z Z Z M M Z
+6
+G G S G S S
+6
+G G Q Q Q S
+78
+J W W T J X A C X T P P X X X T A T I T A N W I J T W J X T W W J J X T W T P J T I W C T P N D C N J P J X W J C P J X W T I W T I X C P W T X W I W X C I
+6
+G Q S Q G Q
+6
+G Q S Q G S
+6
+S S S S S G
+57
+W Q Z Z Q K E C Y N U B P L E Y L O B P N K M C Q R U Y A Z C L Q O A N Y W Q U A U M L H C L O O Z A F C L R A P
+5
+L P L J J
+97
+G O V X U O O W X B N I O J T F C I W Y N A G U I I T A G C J W W W X P J G T Y G P J U N J F F O M X R M T V U W G V P I E K A N P I J M W U N I P G V V N X Q K O G P G P W F C P Y Y X C P N O
+65
+K G Q P R B J H H Q M A G G Y A A H L Q D Y F K H G M H P N Q Q W W G X N G H K V A M Q P M N B D H M H Q A D G K M P N H P R X P
+5
+P J L P P
+58
+V C E D M G K Z V W S S G X C Z C A K S B W Y Y H C E C D C E W B S S Y E K P B S W S B V X T D E T X D D B E P M Y
+5
+J P L L L
+69
+Y U X U C Q K D K D Q S B D I K K Q W F J D K Y A N T K N W Y T Z K R N U F U D L N C H U R D S P Z C Q U S Q D L B I Z D C F B C N K B K
+6
+G S G G S G
+6
+Q S S S S Q
+5
+L J L J P
+6
+S S Q Q G G
+5
+J L P L P
+6
+G Q Q S S Q
+6
+Q S G G Q G
+5
+P P L L L
+6
+Q S Q Q Q G
+6
+Q G S S S Q
+5
+P P P J J
+6
+S G G S S Q
+6
+G G Q G S S
+5
+P L P J L
+71
+S U S S K Q L X K X S N Q N K U Q K U K R S U U S U R U K N S U R R R R L N S S K U S K N U N S N U Q K L X Q N S Q X N L R U S Q N S N K U Q
+67
+K B W W R K M B I B E W T N W W U W K W S Z I K R W B N B B I U N I K U S U I K K N A I K T N N K M I T N W R B I T U W N W Z K U Z R
+6
+S G Q Q G G
+84
+S O O A M Y U O P S X Q Y A P X U Z S R P E P Q V Q W L X Z C P X P X H F H C Q B C B U A Q B S D S J O U P X H W C E X E S G F R A Q S W R C D M U A B X B P P R X O R
+6
+Q Q G S G Q
+6
+S Q G G S G
+71
+L N N N F O F D T Z N U L B D N O U B D O L O D N O N U B O D D D Z B B D B N L B F D T N T B N N T T O U N L N L U B B N N T Z F F F B Z B Z
+5
+J L J P L
+5
+L L J P L
+6
+S G G G S S
+64
+X L L L L L X X L L X X L X L L L L L L L X L X X X X X L X X X L X L X L L X L X L X X X X L X L L X X L L L L X X L L L L L X
+51
+O W R V O W V F D F O V E D R R E E D C C V F C C R W D W F F R W F O W E F O C V V E C D R E C D F V
+6
+S S S S Q G
+6
+Z Z Z M M M
+5
+P L J J L
+6
+S S G G Q Q
+59
+E N O W R O L L A I I O S O S N M W A N R A O V W A S X W X E R O L V A I L H U X I N F W F W F D D L F U W O L R U V
+6
+Q Q G S S G
+53
+O I I A I A B Y I P A O P B A I B O C P Y P R P Y B I P O O C O C G C C B O I C A Y O O Y Y P P I I A Y O
+6
+S S Q Q Q S
+52
+D O D U S A K Z D J U R E Z D Q A Y A R K L P V F K F K K A R K U U L S D J D L T R F T O H F A Q Y D O
+52
+S B O B F O B B R S B M S V B B V V W V V B S V B V F V O O S F Q W V S F B A A B B B S B B A A O Q M S
+6
+S G G S Q Q
+6
+G S G S G Q
+6
+Q S G G G S
+6
+G Q S G Q G
+6
+Q G S G S S
+6
+S Q Q S G G
+6
+Q Q Q G Q S
+63
+H M B W U H C Q C Q I H B K C Q Y I K C K K C K I B K Y S S Q K X Y B S M Q B H M U M B W S Q I C W K I S U C I W H Q W Y C Y
+6
+G Q S S S S
+6
+M M Z Z M Z
+6
+S G Q S S G
+6
+S S S S G Q
+94
+G R R G H R R M T O V G X X H B U Q T Q J J R H H A H A R V J A T R A G A R A Q Q A R A G T Q G T G Q B V J A U M A U R H J R A V A J Q Q J J A X Q X T A M U G T V R X T I I R R J X A R R
+6
+Q S Q S G Q
+6
+S Q Q S S S
+6
+Q G Q Q G Q
+6
+Q S Q S Q S
+6
+G S Q Q S G
+6
+G Q G S G G
+5
+J L J L J
+5
+L P J L L
+99
+E D E N E N E E D N D E E D E N E N E E N E E E E N E D N D D D N N E D D E D E N E E D E N E N D N N D D N D N N D E N N D N N N N D D D N E D D D N E N N D D E N D E E N N E E D D N D D E D D E N
+6
+Q G Q Q S G
+6
+M Z M Z Z M
+6
+G G Q Q G Q
+82
+X A G Y F J S C B Q D D G D Y L R H B I O F H R S M X H Z G C Z M Y I D P F O B Z Z R K W S N S Y X R R C N R A C R L K W U Q U Z W O C Y R S H O M D W I Z N L X V
+84
+B N N N B B N N K N E N E N N B N N E K B K K E K B E N B E K N N K N E E K N N B K B N N K B N B N E N B K N N E N N N B N N N N E N E N K B N N B B N B N K N N N N N
+5
+P J J P L
+55
+U W S D N N I N D U A A H T N A S T N O H S O W O W C X K H N A I S I H U T X D U X S W H S W H D E S T T K X
+6
+Q Q S S S Q
+6
+G S S G Q G
+60
+O M W M F W V V W X Z M Z V O O Z M F Z V Z X W M V M X X X O O M X I V W O Z O X V V O S S V O V V W X O Z O V O X V M
+5
+L L L L J
+6
+Q Q S G S Q
+5
+P L J P P
+6
+M Z Z Z M M
+5
+P J P P J
+6
+Q Q S Q Q Q
+6
+Q G Q S Q S
+6
+S Q G Q Q S
+6
+S S G G Q S
+6
+S G Q S S S
+5
+P L L J J
+6
+S S S S S Q
+54
+L J J W Q S S Q E O R G X O D T L D T V U J O S D R E E E P R E G A S W S O L G R S H L Q X B E X R T K W E
+6
+S G S S S Q
+100
+D D E E D D D E E D E D D E D D E E D E E D D E E E D E E E D E D D D E E D D E E D E E E E E E D D E D D E D E D D D E D D E E D E D E D D D D D D D E D E D E D E E E E E E E E E D D E D E D E D D D
+6
+Q G S S Q G
+97
+Q X F L E W L I G G W V L V L G I L I V E A R S S O G O G W L R H F G W F K G X X G J F H K W F I G H I Y Q Y Q O V F H S A X G V S S J E Q E Y V A V F X F Q I J W O L V S Y S J V X X G L G Y K
+55
+K K K K K K L K K L F K F L W L F K K F W K F L W F K K L L K W K F W W W F K K K K K K K W K K K K F K K K K
+6
+Q Q S G Q G
+5
+J L L J P
+100
+D R N W W B G B E R J W E C I W Y P Y G Y X Q P D I P Q V R D N G O D R W Q G G M M R E F E J V G V D D W N V G A E B V Q L D W V F D C C Q Y D N B S D V Q O M Y L O B R O C V X V M P W R X W W J Q E
+5
+Q Q P P P
+6
+S G S G S S
+6
+G G G S Q S
+82
+N D V U J I P N O E J Q F I M P F K K X V P M N M O X R B P T Q S A N K H V X I T S B U J S Q J Q D J Q V K Y U H H I O Q P X N Y K V V Q I D T L V M X Y V Z J U B
+99
+U X T G T I T G X W W X I W T B E B L G X E E Z E B T B Z E G F X F U U Y S W B P T I X G X E L G L X E E W P Z G Z X P X Z P E E E Z X I L L X T G L S X E X E T R E G E X L E Z Y S G S L B G B X L
+5
+P P L P J
+5
+P Q Q P Q
+6
+Q Q Q S G G
+2
+Y Y
+74
+U D D U H D U U M D U H Q Z D M Q H M H Z O M Z Q D Q U M Q W O D H U O Q U M Z U Q Q Z M M H M H O O W U W H Z M M U M U H Z H Q O O U H H Z W Q Z
+74
+N N R G N N N R N N R R R R R G R N G Z R N N N R R R R R N G R R R R R R N N R Z N N N G R R G Z R N N R N R R Z R R R R R R N N N N N G R N Z Z Z
+6
+M Z M M M M
+6
+G G G G G G
+5
+P Q P P P
+6
+G G S S S G
+5
+P P L P L
+98
+N K Z J Z K J N Z W K N N J K C Z W N J E Z O N J J Z J N J J W J J C E N Z O J W W K K N O N N N C J N E N C W C N W J K E K J J W N N J N N E K K W J Z K K N N E Z W J K E Z O J W J J W Z W J N
+5
+J J J P L
+62
+J F F F F F Y J F B J B F Y T J J J B F F B B F Y T T T J B J F Y Y T J T J T B T T F T F B J F Y T F Y Y F Y Y B T J T Y T
+6
+G Q S Q Q G
+6
+Q Q Q S Q Q
+63
+I S K L O E B L K I H U S I I I E E E H U I H F I H D L P U L T U L K N D B M P B L O K G Q Q K F T Q O H B D F I K L H K B B
+5
+J P J P P
+6
+S Q Q Q Q G
+6
+G G G Q S G
+6
+Q G S Q G S
+6
+S G Q S G G
+69
+B B H B B B R R H R B B B R R R H B B R R B B R R H R R H H B R R R H R R H B B H B H R R R H H B B R H B R R R B B R H H H H H R R H B B
+5
+L J J L J
+60
+P H R M V X C X X C C C S C I I I I S H X C H H I V I X P X H C H X X I I C H H C I T S C H C X S S S H J C S R X H H X
+5
+J P L J L
+6
+G Q Q S G Q
+6
+Q G G S G Q
+5
+J P L J P
+6
+S S G G G G
+6
+M Z Z M M Z
+5
+L L L L P
+75
+P H U U P U P H P P M P U U H P U M U P H P H H M U H M U M U U H M P P P U U U P U H P U M P H U U H P U M P P P M H U U U M P U U U P H U P U H M U
+6
+M Z M Z M Z
+55
+H P P H R H H R H R H R R R H R H H P H R R R H R R R R R R P P R R H R R R R R H R R R H H R R H R R R R R P
+74
+L G G G D W C N Q G Q N Y G O Q G O L U D L C G C Q R E R C G G W R N R R L N G N O P Y O O O O Q N P O Y D Y B B O Y B Y G E Y C L L E L E Q Y O O
+5
+L J J P L
+6
+G Q G G G S
+6
+Q G G G S G
+51
+X A F F X C A I X I Q X A I I A C Q X O F S A I A A F F A N I Q I A S I Q F X A C A A A I N X N F A A
+5
+J P P L J
+6
+Z M M M Z M
+72
+X Q C C E J W E W Y Y A W Z J I Z C U K C V J M X M A X V K V K M I Q D Y J D N X V Z W W A D P I U V Z P K V N M P D V J Z C K X Y I V E U J U
+75
+R K D H O K F L D J F H R O Q F K K J O K R J O U J J K D L M L Q Q H K M K J U Q R R L K L R U W U K M K K F R L K J W K K D Q R R Q M Q R H F M R F
+6
+Q Q S G S S
+5
+J L L L L
+6
+Q S S Q G G
+87
+J T Z D E E F M B X U D Y M L D M I E Z H M Y Y Z C D E C D Y M M F C Y Z V H X H C U X M B L X H Y U Y O M M T Z Q Z L Z C P O E C O D H M T V Y I T V J U C D Z A H M E T M
+6
+S S G S S S
+88
+P P R D V V X G D R R I R A G D A Z I E E I R D A E A W R A E V R R A I G C A W X E A P I I A I A V P E A V E E D C W V C A D C A V I R V G V G R W W X C A A D A I I W V I E I
+77
+D Y D N N N C H N N N K Y N D H C C Y Y K K C Y Y N C C D C C H C N C N D N H S H C D C K K C C N N N Y K D C S H Y N K S C H N C N Y C C K H S C Y D C Y
+6
+Q Q Q S Q G
+6
+S S S Q S G
+6
+S Q G S G S
+6
+S S G S Q G
+5
+P J P P L
+6
+Q Q S S G S
+94
+N E O N K N U J N E I T K D N N U N T I J O K T D K T I K K G I T O T C J T N N Y W Y N K W I W O K G U J N E N I W K E T I T Y N K N I K T O W E E O U U J Y O Y O T I W K O U U J I Y C N
+72
+Q Q K X B F Q Q V Q O B G V X B F V F M J F J B N O O O V P L P D G J V L G K O Q Q L V N J V M V G N B J Q B O B L F K B J K G D N V P P J N F
+6
+G G Q S Q G
+87
+D C C A L F H Y H K F J L D S A S F N H U Y W C U U L K L S K C J H D F W K F F M U N R U K N S Y W Q A C M W L F S C M K E K E Q U F E N A A N K L K Y J A U A L A A M C E H
+6
+G S S S Q Q
+73
+M X P I C P K N J Y C E P X E M V K N V G Z E P C Z K I X Z P H G K I J Y X Y E Z G V P E N V V H H Y Z V N H M Z C C K H J N N Z C V V H J V C X
+6
+Z Z M Z Z Z
+70
+S V N A J M T A F Z F B U A S Z I V Z B A Z A T M M M I Z F F F S R T L V F M L M M M V I F T S N R M T M M L A Z H Z B I M M H V Z M L N V
+5
+P P L J L
+5
+J J P P J
+54
+W T W Z I O B H O O C T O J W E J O W G T U W Z L Z J L N E J N O O I T O J O C C C O G J W E N O T J C T G
+6
+S Q G Q G G
+6
+S S S S S S
+6
+G G S G Q G
+6
+G Q G G S S
+6
+Q S S Q S Q
+6
+Q S G Q Q Q
+6
+Z M Z M M Z
+6
+S Q S G G G
+6
+S Q S Q Q Q
+5
+J J P L L
+99
+G I Y Y X E F Y Y E C Y C X F Y E H H Y V C Y V C X G V X F G F C X G X R G X C Y R Y F X F Y Y E C X R X V H F Y C E C F H Y C G J X C I X C X F V X X E Y G V G Y F Y V J X V E Y Y H E E G F Y F X
+68
+U E R H F O Y H O Y E E Z E T Z Y A E C R Z T E Z V Q H W T A H H Z Z Z M C Q E M A Y O K Q F O F O C T J O Z V O A Z O F Y Z H H R O C
+26
+N Y L T K C J A P S I D M G Z X V Q H U E B W F R O
+5
+J P P L P
+6
+G Q Q Q S G
+5
+P P Q P P
+6
+Z M M Z Z Z
+6
+G G G Q Q S
+6
+Q S Q G S S
+6
+Q G G S Q S
+5
+Q P P Q Q
+71
+Y G D L Q I T D V O L L T C L C I D Y O Y I S H V L C Y Y Q Y Q L Q L Q H A V D Y O T G O O S L L J G Y H T O A Q S O Q L Z H A D X S A H Y L
+6
+G G G G G S
+5
+L J J L P
+5
+L L J L P
+6
+S S S Q G G
+62
+D L O G O O A S V L M W A V C J V J X G S O I I Y V O J L R V O V J J A C O L L T U T M L G E V T T G J U D C L I U C O S Q
+5
+P J L P L
+6
+G S S G G G
+6
+S S S S G G
+6
+S Q Q G G S
+5
+J J P L J
+6
+M M M Z M M
+6
+Q G S Q S G
+5
+J L P P L
+61
+L O O W E E X S F S X Y U R Y N O P N L I P S I R S O L E R S N R P U U S N U N Y S O N U P L S I P U P E P X E S N F F L
+6
+Q S G S G S
+6
+Q G Q G S Q
+6
+G Q Q S Q S
+72
+Z Q L S K P B Y Q L M N J S Y P P O P E P R D W H N J Y G E N R N G M Q T Y R Z Y Q R G G L L R P K P G W G E N P E Z R K H Z J X P S N O T L D
+5
+P L J J J
+6
+S G Q G S Q
+6
+G S G Q S Q
+99
+Q V E V V J G M G M M Q Q W E M E G X M E G G M C C X H X W Q C M Q Q C Q X C Q H M Q H X W C E E X G M E G C E H Q C Q G Q H E M H H E G E M Q X E E E Q E Q X Q X H W V V H E M C E H Q M G M M H C
+6
+Q G G G G S
+5
+J J L L J
+6
+G Q G G S Q
+78
+P E R I R A R M I E M O E R D I D P D D I I R P A U D D B I O O I R P I A I D I D R M F I P Q O P D R U D D E E R D O I O O R D I R D D O I B D D I O U R R
+6
+S Q G S Q S
+6
+G Q S S S Q
+6
+S G G Q Q G
+6
+Q Q G G G S
+97
+W B H Y Y A G H Q I F T X H Y O N Z T G N S D V H Q U Y H N I C H J C N C N J Q W J O G D D H N B O J C S K B P H Q C J H V N I P N N W J F W F H V W Q J W G H N S C N P C J J Y C J F P I H X N
+6
+S Q S S G Q
+6
+Q G S S S S
+6
+S S Q Q Q G
+66
+K L W W E L U E K S T X P T X V K L U A P M O V P T P A T L B R T T V O K K S W X R A X X W X W M T P M X S P R E K O N I U S I V P
+64
+R N B E R R C T S Q K V Q Z D A V X N Z E H T X J V A T C P E S R X D E V K T V P P J V A P S A Z V C B R D K C D Q B V P C R S
+5
+P L L L P
+6
+G S Q Q Q G
+68
+Z Z O Z O Z K Z Z K K K O O Z Z K O Z O O K Z Z O O O O O Z Z K K O K Z Z K Z K Z Z K Z Z Z O Z O O K K Z Z Z Z Z K Z O K Z O Z K K Z Z
+51
+B I K H U R R K H V K Y B B J N I R R I B U V N J R U V U Y U C I J A R B R I B V B K K R J J N U I N
+6
+S G G S Q S
+5
+L L J P P
+100
+R T G R B S J R E T S R K E K E G R Z E B S J S G S B G J S G G T Z S Z G B B Z T K K T G Z E K B Z G Z E R K Z B S B J K T R R J Z K S S R R G R T Z J E B T G Z K T B Z E J Z E S Z E K E S B B R S B
+6
+Q Q G Q Q S
+70
+P U Q S F R P W E F T U S C I W F J V F S F I W U S C Q V S S J R K I R V R J P C V C U P U U L S U H J S V F L I L P E C S Q S P G S U V A
+5
+L L P L L
+5
+P J J P P
+5
+J P L J J
+6
+G S S Q Q Q
+6
+S Q G S G G
+6
+S G S S S S
+6
+S G S G G S
+5
+J P P P J
+6
+G S S G G S
+5
+P L P L J
+69
+D F X Z O Z I D C G U S T Z X Z Z N N N A M Y X Y X J Y F J G Q G U A Y X G O N W A X A C S S M Y D C Y X O Y Z G O Q C J G F J Z Z O B T
+5
+P J P L P
+6
+G G G Q G S
+6
+Z M Z M M M
+5
+L J P J J
+6
+G G G G S G
+5
+L L J J P
+6
+S S G Q G S
+5
+Q Q Q Q P
+64
+M H L M L A F S S W E X Y R Z N U P U P V V G X J O U U X Y V Y Q G A A A W H V H U O Z K W Z F F G W G Y W Y E S Y P F S X R O
+6
+S G G G G G
+6
+G S S S S G
+5
+Q P P P Q
+5
+P J P L L
+5
+Q Q Q P P
+64
+G V O G P V V S V P A V G G A V A D V G O S V T S J G V D O O O D J D J V V G T D G P V J G D V V D S P D O G J S A S S D G G V
+90
+U L T L X U W X X L X X T L K X W K T W K K W X L W T W U L X L T U W L W W L W T X X U K T W K L X X L L L X U L U L X T U K T K L W X T X W T W X X L U U T X K U T K X X K L W T
+6
+Q S Q G G S
+6
+S S Q S Q G
+6
+Q S Q S Q G
+6
+Q S G G G Q
+92
+W K S N A L N Z F H V A H S M H Y N K M B S N F I N H H V N F K M X S S K H V M W N B Z B A K F P M M Y P I L H K B S F S F Q Z Y H B F I K S Z H N M F S B F W S F W C M V C F L A A A
+82
+U Z L L Z U L U S L L U U S L S Z L Z U S L Z L S S L U U L L Z L L U U U S L U L S L L U S S S Z L L S U S S L L L S Z S L U Z Z U L L S L U U L L Z L U S S Z U L
+92
+P H P K H X H X K X X X X P K K K H X P H K X H B P H B H X K K K X K P P K K X X K H X X K X H K X P H B K X P X P X P P X H K X H K H K K K H B X K B K K B X K X P X X X H H H K H K
+6
+Q S Q Q Q Q
+6
+Q Q Q G G S
+67
+O P C D E E R H P D V H H R V U Z C H M V C T H C C Z R T M P C R H H M C C F H R C O T M D H R E T M D P H C M C P U O R U T C C F U
+6
+Q S G G Q Q
+78
+K W K K I I W W K K W I K Y K K I K K Y K K W I Y I K K I Y K W W I W Y I I W W K Y Y W I K I W I W I I K Y I K Y I K K Y Y K I K I W K K K W I I Y Y K K W
+6
+G G S S G G
+6
+S G G S S S
+6
+M M M M M M
+6
+Z Z M Z M Z
+6
+S G G G Q Q
+6
+Z Z Z Z M M
+6
+Q S Q S G G
+5
+Q Q P P Q
+6
+G S S G S S
+78
+S S P L D L Q S D Q P Q Q D Z L Q L P Z P P Q Q Z L S L P S P Q S L Q D D L Q Z S D D Z Z D P Z Z P P P S L D Z L S P D Z D Z L S Q L L Q D P P D S S D D S
+95
+S A H J H B H K K K S H K S A C K S K K K J C B H K J J H B K K K J K K H S A H S H J S J S S A K J H K K K K J H B S K J S J H J S A K K S K H A J B C K J C H A J H H H K C H H K B K K S B
+5
+L P J J P
+5
+P P J J L
+78
+T H S Z T W E T S T W T S W T W W H E S S W S H W T T S Z E W W W W T Z T Z W H T T W E S W W T S W H T T H T S S W W W Z S H S T W W W W W H T T T W T S T
+87
+V C F G M T Z W W E I U E I K Y N E I M G G R Z I E K Y X G G N R E C N K E C N U R G K U N G I V W V I U E K I E X J G Y N U V G M G M Q E I M N N N W M N K X I N N V E C R
+68
+Q F V V K M F C T A I V F C F N K I A C B S A H I M V W S V V P O N T O K S M H S Y C H N U N M U U X N F I F U I R S R U T S C C D X S
+5
+J L J J P
+6
+Q G Q G Q G
+71
+M R P X B V T S A H R J E V L G P D J W S M I V K E I Q E A V A R V G U M I G P B P V P U A U O P R X K H O Q A J O C W B K V O M U O M E N B
+5
+J P J L L
+6
+Q G S G S G
+6
+G G S G G Q
+100
+C C N N N N C C N C C C C C C N C C C N C C C C N C C C C N C C C C C C N N C C C C C N N C N C N C C C N C C C N C C C C N C C C C C C C C N C C C C C N N N N N N C C N N C C N C N N C N C N C C N C
+6
+G S S Q Q S
+6
+Q S Q Q G S
+6
+G Q G S S G
+5
+L J P L J
+5
+J L J J J
+6
+S G G Q G S
+79
+Q P Q Q K Q P H D Z F J Z J R D D P K D P J P P G D G Q K Q P K K P P J H G Q A J P Q P P A G P H K A Z J K Q Q A P A Q A Z K D F H D G D Z P D D K P D D J Q
+5
+L L P J L
+6
+Q S S Q S G
+5
+J L P L L
+63
+J Z J Q Y Q Z C J Q Y Y Z Q Q Q Y C Z Z J J Y Y Z Y C Z Q Z J J Y C C C Z Z C Y J C J J Z Y Y Z Y Z Z J J Y Q Z J J Y Y Y J J
+6
+S Q S G S G
+5
+J J P P L
+6
+Q S Q G Q Q
+6
+G Q G G S G
+93
+T E U Z T U T T E Z T Z A E E E E A S A E S A T Z S Z Z T T E T Z E U Z T S T U Z S S Z E T E S Z S T E A E U T S A Z T S E S T E Z T S T U S S Z Z Z T A Z A T Z S E E S S T S T E Z S Z
+6
+S S S S G S
+6
+S Q S G S S
+5
+Q Q P Q Q
+6
+G G G S G G
+6
+S Q G G Q G
+6
+S Q S G G Q
+91
+Y Y N N W A Z Y T N Y T T A A T W A W Y N N M N M Z A N W Y M W Y W Y N E A Y W Y A A W Z W Y E Y N N A M M M A N W M M W Y W Y N N A W E T T N Y M W Z W T N E N Z M W N A T E W M M
+5
+J P P J P
+82
+Y R D R D S G C D R Y C Z R C R S E R C D Y K K D L Y I Y E C L E S C Z R D Z Y T L C D C Z T S H E K Y Z E I K T I F C F I Y T T Z W D D G C R D F H Y D L G T K E
+6
+S G G Q S G
+6
+Q S Q Q S Q
+58
+W W F Z S W H C P P P U M F H R S Z I G X O F J N I O J M Z G R Z G J E J I G G G Z H W N Y Y O W N J X R Y O K W N
+53
+K K O K R K E N N M M M F K N K K R N M G F O K G G P O K N K G P P K K M O M G F R F G M N F O K F N K F
+6
+Q S S G S S
+5
+P Q P Q P
+5
+J L P L J
+5
+P P P P L
+6
+S Q S G G S
+6
+S G G G G S
+6
+G S Q Q Q S
+6
+S G Q Q Q G
+6
+G S Q S G G
+55
+O H H N D D H D H D N D A T Y D G T H N O N D O O G D A T N A N T N A Y A O N O A B O N B D G O B G A T N Y A
+80
+Q E Q Q L N G Z G I Z L L K I X O Q H K Q E R K B J J E H K M M I R F M E E Q H L I G H M N M I P Z F F M K Z P Q Z G K G P K L F F H J N H K L N R I I M Q P N
+6
+G Q Q Q Q G
+6
+S G G S S G
+62
+Z R D R A V A N L L Y E T H Y Y Z T O A A Y Y E A R S X Q D A T I C S M D I N I D Z G U Z H C Y B B X C O D I R U X E Y X O
+6
+G G Q Q Q Q
+6
+Q S Q Q S G
+87
+F J W E J W W W G F E F E F N I E E W J F F F J C E J I W W F I C I E E J I F E I I N C F I J G N J F E J J F J I I J N N C E J C I W J I E J F G I J J E I F N W C W E F F W
+97
+K S V G D K J N S N I S P V K V I B S P G V K E C V O S J N J U A N L N R R R C G J K K X Q S C W C Z L J L K C G G J C S E W S Q N J J P T V D L J L C V G P T Q C V K K G N J O J D F G J A B V
+6
+S G G G S Q
+6
+G S Q Q G Q
+66
+G B Y Y M W W M G Y G B B Y W B W B B G G G Y M B W G Y Y G G B G G Y B M W G N G M B B G X M Y W W M M G M B W G W M Y N W G G Y Y
+5
+J J P J L
+6
+S G S Q S Q
+6
+S S G Q Q G
+6
+G S G Q Q S
+89
+K R E L R B L U K B K K B C K U U B L C R K Q L J V X E L Q C U C L R E B X C R B K B E K L B L R L B R B B C L L B H L L L L H C C U X U K R R B H S U E C L Q R L B R X B H C B
+52
+B B O B O O O B B O O B O B O B O O O O B B O O B O B O O M B M O B B M M O B O B B B B O B B O B B B O
+6
+Q Q G Q Q Q
+100
+U Z U Z U Z U B B B U Z B U U Z Z Z B Z Z Z Z B U B Z B Z Z Z B B Z Z Z B U U U Z U B B B Z B B Z Z B U B U Z B Z U U U B Z U Z U Z B Z U Z Z U Z B U Z B Z Z U B B U B B Z Z Z B Z U B Z Z B U B B U B
+6
+G G Q S G S
+5
+P Q Q P P
+65
+R K G A P L R R L H V A H V A D P K J P H C C G J F H O L Q G H P T C G M Q C H F V R C R A F G F H G C K I H T F D L N Q J K H H
+6
+G S Q S Q G
+6
+G G G G Q S
+6
+Q Q G Q S S
+6
+G G Q S S S
+5
+P P Q Q P
+6
+G G G S G Q
+5
+L L L L L
+6
+Q S S G G G
+67
+S F L D S I A S A X F F Y Y Q S Q Y Y B G Q B S G S X D D G I G I K Y D D K D D L F D Q Y I S L F A I D L F X F A F S D D I G K D F A
+99
+C H C O H H H H O C C O O O O C O O O C H H O C C O H H H O C H O C H O O O O O H C H H O O O O O O H H H H O C O O O H C O H O H C O H O H H H O O H O H O O C H C H C O H O H H H H C H H C O O H O
+54
+V Y X Y Y O P I B M L W O C X X F K L Y P W O P O W P I J I Z R P L A B Y Y T A Y V U P T T Y O I X R S E O
+6
+Q G G G Q S
+6
+M Z M Z Z Z
+6
+G S S S G G
+6
+G S G Q G S
+5
+L J J J J
+6
+Z Z Z M Z Z
+6
+G S Q G G Q
+6
+S Q S Q S Q
+71
+K Q W Y H W N W Y H G W P J N N K W J W Y Q W H J P W P Y W W X W Q Y W W J Q R R J J K K H G Q W Y R J N R H J J Y H J Q P G W H J P W N K R
+6
+G G G S Q G
+6
+Q G G S G G
+6
+G G Q S Q S
+6
+Q S Q Q S S
+6
+S S G G Q G
+83
+R X X N N K X X X N N N X H R N R K N X R X R X R R N X R N X M N X X M K N N N X X X R N R R R K R X R K X N X R N X X N M R K R N R R R R X K X M K X X M R R X X R
+6
+Q S G Q G G
+5
+J J L P L
+99
+E R R E R R R E R R E R E E R R R E R R R R R R R R R R R R E R R R R R E R R E R E R R R R R R R R R R R R R R R R R E R R R R R E R R R R R R R R E R R R R E R R R R R R R R R E R R E R E R R E R
+93
+Q S S Q S S S Q S Q S Q Q Q S S S Q Q Q Q Q S Q Q S S Q S S S Q S S S S S S Q Q S Q Q Q S S Q Q S S Q Q S S Q S S S Q S S Q S S S Q S S Q S Q S Q S S S S S S Q S Q Q Q S Q S S S Q S S Q
+6
+S Q Q Q G Q
+6
+G S G G G Q
+5
+J L J L P
+6
+M Z M M Z M
+5
+L L J J J
+54
+C X R C X X R C R X X X C C X X X X X C X X C X C C R R C R X X R X X X C X R C C X R X C X X R C X C X X C
+5
+L J P J L
+5
+P P J P J
+73
+O U M S C O K U S O I U L G L M E K Y I D D D K S K T K U G O D D G D O M S D M O D O O L S Z C E C C L L S L U S M I O G C O O D C D Y C C I G M
+6
+Q Q S Q Q G
+6
+Q Q G G S G
+97
+H B M M L E H L Z M R L H H K R F M O T B E C O E M H L L L C R X Z B B M Z L I M L E E L L E H M N B T M I K L C E H L C T M B F L E O M Z R K Z L F H B R B Z Z M L C M O B O I E X R M O B H R
+6
+S S Q G G G
+5
+P L L J L
+6
+S G S S G Q
+6
+G Q S G G G
+5
+P J P J J
+6
+S S Q G G S
+5
+L P L J P
+6
+G Q Q G Q Q
+6
+Q S G S Q S
+6
+S G Q G G S
+63
+L J S S J V G V J J V S R V V J Y S S G V V S S V V G L J G V R V N G S N G G Y L J R V Y Y S V J Y V G G Y J V G V L L S V G
+54
+T Z Z K Z G L G G X G T T E O A T N Z E O L P X R A E X L N X X N G P X Y P N T A O P G T M E A Z A M O X T
+85
+L I L J N C I M H M U O E C G B A S U F I E J U C S F V E M C I D U R I H A F N H M Y F S Q S H I N P N O H D M U H G F F J C V R V U A S L C U M F F T F Y P D Q P U G F
+64
+X J F X V F V M V H V M M J N N N M X N X R V V E V Z V R N W O R H X X M X V R V W O M E X O W Z Z Z E M R W X J F O V S J E V
+6
+G G S Q Q S
+98
+F D T N S B N D T R N S B H S K R J R J W O T W B R T T O M N R T K T D H I R K O J M R M J F F F R U N R D R D R M N N J N B T K B S K N D T W W S B J R S N T I B T R N S D F F N D T O D T M F T
+6
+G S Q S Q Q
+71
+B P S F N G I N G C K I B G H B N K R N T G I P C H K F P T R N K H K S K R T K K G S K K N C G I F C B F N N K R F P I P N K H G B R K C R B
+6
+Q S Q G S G
+6
+S S Q Q S G
+6
+S Q Q Q G G
+6
+G S G S S G
+6
+G G Q G S G
+70
+B B A U N P J U J O S D A J S S R A I L X S Z Q K J M S O M L R R R A X N T L J D K O A S L L Q O S B L L A O L U L M P F F U N S A M A P S
+5
+L L L P P
+6
+G S Q Q S S
+50
+D B T D B Q B D E B S S S U U O H C D B B U C G Q G O C Q O C D D G D Z T E G T I E C O H O D H Z D
+6
+S G S G Q Q
+83
+V V V U Z T J J U V U T T V V Z T J T J J V V Z J V T U T V T J V Z T Z Z V T Z V Z T T V J T Z Z T U Z T U T Z J J V V V J T V T T T V V S J T V U T J V S U T V T V
+6
+M M Z M Z Z
+6
+Q G Q G S G
+79
+T Y M Y Y Y Z M L Y M M Y M M Y L M M Y T Y Y M M Z Z Z Y T Y Z M Z Z M Z M Z Z Y Y M M Z Z T Y M T L Z L Z Y Y Z M Y M M Z Y M Z Y M M Z T Z Z M M Z M Z M T
+88
+S W E W S J T S M D W M K K K E E K E Z S S W R R C M W Z T W D Z D W W Z W T D S R K W W J E S M M K R W W Z M W Z W W K M E Z Z C M S S W S S T S S M S D M W S C S J M K M K
+6
+G S S Q G G
+5
+P L P P P
+6
+Q S S S Q Q
+6
+S G Q Q Q S
+51
+S V H C H F H E P X X C V R K F H N K X X A T K F K R K K T E P P X P H H C N C X E F X P C C P H R N
+54
+U X Y B R B J Q F M N T A S O A U T D D Y Q Z N T I L K G I Y V M L S A O I M Q Q J I O O J G U F J I X R G
+6
+S Q Q Q S G
+6
+G Q S G S S
+6
+G Q Q G S G
+5
+J J J P P
+5
+L J P J P
+6
+S G Q S Q S
+6
+Q Q Q Q Q G
+6
+S Q Q G G Q
+100
+X E U V Y W Y Y U F W V U Y K K F Y U U O Y F U Y V U C Y W O U U C X X Y U W U U W E V U V Y Y Y V S C Y C W C K S W U U U U W X W Y E C Y S C Y W S F U V C V Y F C W U Y U W F U Y X W U O W X V Y C
+6
+G S S Q S S
+6
+G S S S Q G
+79
+S R R R S R R R T Q T X Q T Q Q Q T Q Q Q Q R R S R Q X Q R Q R R S T S X R R R R X Q S R T Q R Q R Q R Q S S Q R R R T R T R T R R T R R T R R X R R R X Q R
+5
+P P L L J
+6
+Q S G Q G S
+5
+J L J J L
+76
+G T N X T T H G T Z N N N N L T P B G P Z X L P H P P Z X N G H H P X H Z Z L L N G N Z Z T P H Q N L G H X B P G H B T N Z B X P N G B Z N N T N H H T
+5
+L J L L P
+6
+S G G G G Q
+5
+P P L J P
+6
+Q S G S G G
+91
+S C S Z A F O G Y Z Y Y J U X B B O C Y A S Z E J C A J F X Z B C C B O O Z X U O B U E Z F A G Y C Y F S Y J O U Y B F U J A T Z W H Y A S L L L S O F A E Y B B A J F J A X D R U U
+5
+P P P L J
+77
+X C I H I U F D O O A B F A U O J O D J D C F B G G W J L F G D O O W R A F G O U H X W G C I B D W B U A A J N F T T B G O G K O C N O I X O L U P O A B
+72
+A F D P U N J D L C P P S A A N F C G Z F J N L P Z P F L C Z S A F F J G N F P J S J R Y A S F P P D U L J C N L C Y A G G J R A A G S R A G A
+6
+S S S S Q Q
+94
+E Y M W E B I L L L E V Q L M I F E W W I L I B Q Q L E L C F Q M L Q I Y I F C F M O L O M Q E V F B V Q Q E L C Y C F I O Y M F M Y B S V W E I M M E C I F W Q B W I E L F W L I L O E S
+6
+S S S G G S
+6
+S G G S G Q
+6
+S G S S S G
+6
+Q G G S Q G
+6
+S Q S S S Q
+5
+P J J L L
+50
+R R L X N N N R H U N L Y B T V T B L B H L A V N N L X L N K L R T N X U V P U T N R T R R J T J R
+5
+J L J L L
+6
+S Q S Q G G
+52
+M Y A T M G H I R R O L K L C N T B M K A X L I D U I P K I S T C J L M L I Y B D B L J S S B W N P T K
+6
+G Q S S S G
+5
+P J P L J
+6
+G G G Q G Q
+6
+G Q Q S S G
+6
+G G G S S S
+88
+L L G U X X B A G D E E U L L E L L E L Q L D E X X B D F L E D L G D G A G X D G L D E F G D U G L A G L G B L D L J E B A T D F D L B E A E B K G X L W D K K W A F D D E A X
+6
+Q G G S S G
+5
+L J L L L
+6
+S S G Q S G
+6
+S S S G S S
+6
+G Q G G Q S
+6
+G Q S S Q G
+6
+G G S Q S G
+6
+G S S G S G
+6
+Q G Q G G G
+54
+A Z C Z J G X L A X Z N A A G N J G A Z A T C X G Z Z Z L C J L N G N C X N Z V X X C X V N A C Z A A N X G
+81
+T N Q D U G D L S J S W G S J G D Q U G G M I J R W O L T H H G J U B N J A N U H E D L W Z K N Y L S N T H N X Z W J U L W S P Y Y M V Y I C G L G H G S X C T R
+6
+G Q Q S S S
+98
+C H Z C H R R M M Z G R H R G Y H G H Z Y R R Y R G N Y N H Y H H G Y B Y G G M G C R Z N R C R Z M H G H H Z Z H N R R Z G C Z N Z H G G G G G Y H Z Y H R H H N Z R C R Z R Z Y R N R Z M H R G C
+6
+G G Q G Q Q
+6
+S S S G S G
+5
+J J J L L
+6
+G Q Q Q S Q
+70
+J J S S Z Z S S J J Z Z S J S J S J S S J Z S J J J Z S J J S Z J S Z S S J J Z J S S J J J J S J J S Z J S S Z J Z S S Z J S S Z Z S S Z J
+74
+M Q F F S Q S C J Z U T M T O C T F T E U J Q O Y Y F G N F T C T S U N Z S X O J C F J S F B U B M F S U U O M G T T E J M M Q M N J J F B Z M F Z
+5
+L L P J J
+91
+M J N M W Q U T J X H N N J N N H U T N J N X J U X Q X H U N Q Q U X N T U U T U N W Q J U M H Q U H J J U U T X M J J U U W Q W N N X N N W X W Q J J N X N J M W U U Q W U N N X U
+6
+S S S G Q G
+89
+Y F C W D C F F Z W I L U O E O X G X I I Y C L D L D C C U W F F P C Q L F I U C C Z O L S D W I Y U U X I F Q I S P Y Z F O F L Z F L L Q Q Z F S I F X O E S C W W S X E E E S
+65
+P Z P X X P P X P U Z U Z U Z P P P U P U Z Z U Z X S Z Z X Z P U S X P Z S X X P X P U X X U Z S P P X G P Z X P P P U S G X X U
+5
+P L P P J
+6
+G S Q G G G
+6
+M M Z Z M M
+6
+G Q S S G S
+6
+Q G G S G S
+100
+J J B L H T A Z D U J A E H X T T U R A L F H T F B Q Z L O D J H M Y W H N X B U R T T H Y W B U X T Z H J Y B X T T L W U E R D R Y Z T Z Q Q A E U Z L E U Y U K B B H J J E D Z Z T T B D J L O J B
+50
+A B N Q P J V D O Q N D R J J N U U D A Q N K K U D U A E Q F O E E A P N O Q A N U Q D N R F J B R
+6
+Q S G S G Q
+5
+J P J J L
+5
+L P L J L
+6
+S Q Q G G G
+6
+M M Z M Z M
+6
+G S S Q G S
+6
+Q S G S S S
+5
+J P L L J
+6
+Q S S Q G S
+6
+S Q S G Q G
+64
+G L L G G G G G L G L G G G G L L L G G L G L G G G L G G L L L G G G L G G G G L L L G G G L L G G L L G G G G G L G G L G L L
+6
+G S G S Q G
+5
+Q P Q Q Q
+6
+S Q G G S Q
+100
+O X V X X Z X C Z C P Z N C X N P C V C X Z Z X P X C Z N Z O Z Z N X Z C V C V C C N X X V N P V C Z P C X C Z N P O V O V N P V Z N Z C Z Z Z P P V V V Z O Z V X O X V X C X Z O N C X O Z N O O P P
+6
+S G Q S S Q
+5
+P L J J P
+6
+Q S S G Q Q
+6
+G G S Q G S
+79
+S V S T Z K Z X W V Y S M S Q X Q W A N B U O K S N K A S B Z S D V K A N D T A N V V Q K Z Z P S S T S S Z S S D B V N Z S Z N S V W P D W T A A B T A K Y K
+5
+L P P P J
+6
+G G S Q S S
+6
+Q Q G S Q G
+6
+G S S Q S Q
+6
+Q G S Q Q S
+5
+L L L J L
+69
+M J V D W I Y W C P P W M Y H T P W V O L G W I O N A A F J A Y H H E G P N J G Y N Y G T I I Z N H I O M Y P E Y I Y U A T V A W M H Z G
+6
+S G G Q G Q
+6
+S S Q G G Q
+6
+Z M M M M M
+6
+G Q G G G G
+65
+O X F I H T U C H K D H S O Q Q A X X V T W S S X X L A X Z H Q D C H T Q D W F S K L J T W O P P Z H A X X U H I X A J F A F P Z
+70
+P Q Q Z G G A E X G A C P C J W P W C P G Z M M M B Q U J E O C U J Z C C O C C Z U X Z C Z P E C S W M G Z Q G G A A C C Z G H B A G P G O
+6
+S Q S S G G
+94
+E G I V H G M U F C W H V C V H A I E O E C H C P A A P P O U K Z N B C U H G V L A W O N D C I M F O F K V G E Z A P Z N H T W Z T K A I E M T C V M C J A S B C V A B T Z U M C V U F J N
+6
+S G S Q Q Q
+5
+L P L L L
+5
+J J J P J
+6
+G Q G Q S Q
+6
+Q Q S G G Q
+6
+G Q G Q G S
+71
+B V X B X X X X V B V B X X V X B B B B B V B B B O B X X O B B V B B X X B V B V X B X B B X B B B B O B V B B V V B B X X O V X B X O V O B
+68
+M T C Z C C T T Z C Z Z T C Z Z C Z T C Z C C Z C C Z C C T Z Z Z C Z M T Z C C C Z Z C Z Z C Z Z Z T Z T T Z C Z Z C T C Z Z Z Z T T Z
+76
+Z F H M F V N F Z Z Z X Q Z M S N X S Z X W U Q M W Z Q H Q U N F Z M H X X U Z M X Z N U W M U Z X Q N M X Z H Z Y M F F W S U V H S H U Q Z N F X M Z
+6
+Z M Z Z Z M
+6
+Q Q S S S S
+6
+S Q Q G S S
+6
+Z Z M M M Z
+5
+L P P J J
+5
+L L L P J
+6
+G Q S G S Q
+6
+M M M M M Z
+6
+G G S Q Q Q
+5
+J J L L P
+6
+S S S Q Q Q
+50
+G Y M G Y V G U G M V P G N V A N Y B Y N Q Z Q B M W Z M I T A V S Z Y G U T I E Z N U Z I A Z T E
+5
+P L P J P
+84
+W P M Z B O Z C C M W T A Q W N X K N J Z P B O X Z Z E Z N N T W P D J B O X Z B P G N E X D P D W C G A D T X G X G G W G A E P R X Q D M G Z W U J M A N O A D N E G
+6
+Q Q Q Q G S
+6
+Q S S S S G
+99
+B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B
+57
+F T W W F S S W S F T S F F T T T F H H S F H H W H H S H S S T H S F H W S S W F W W W W T F W S T W F T H F T S
+50
+W M M V V W W W V V V W W M W W M W M W W W W V W W W W W W W M W M W W M W W V M W W W W W M W W W
+6
+S S S Q S Q
+6
+S Q G G Q Q
+6
+Q G S G G Q
+6
+G S Q S G S
+6
+Q G S G G G
+6
+Q S S S S S
+6
+G S G S S S
+72
+U M C M M K H M P U P C P K U P M U C H C U M U M H T U C M P U T K U K P M K M M P H M U C T K K M K C K H H U C M C C K H U C H K K C U K M C
+6
+Q S Q Q G G
+6
+Q S G G Q S
+100
+K K R R V B V Q B B R K V R B K O V R V V V B B O O O R K B R O R V K O O R O Q V K V O V V B K R O O R R K O R R K B V V K V V O O V B O K B O R O B R K K R V R V K B B V V K R Q V O V R R V V V V R
+6
+Q G Q Q G G
+5
+P P J J J
+6
+G Q G Q S G
+6
+Q S S Q S S
+6
+Q Q Q G S S
+6
+S Q Q Q S S
+6
+G Q G Q Q S
+86
+Z D D Z D I I S Z I I M Z I M D I M D I Z S D D D M Z I Z M D M M I S Z M D L Z I I Z D I S Z Z D I M D D I D M M D Z I M D L D D I D M S I M Z D D Z I Z D Z L Z I D D S M
+6
+G S G G G G
+6
+Q Q Q G Q G
+5
+P L P J J
+6
+G Q S G S G
+6
+G S G S S Q
+6
+G Q Q S G G
+5
+J P L P J
+5
+P L J L L
+6
+Z M M M M Z
+88
+E X O Z X X E X T E V J L P V D L P O O T U E J M M O V O V V J U L T D L E G D O V G E M D J Q V R V L M U G O H V V O D T Q M L L P P P T R Q L Q U J X U M L D T E Z V X X V
+6
+S Q Q G Q S
+6
+G G G S S Q
+6
+S G Q G S S
+6
+S S S Q G S
+6
+Q Q G Q S Q
+6
+G G G G G Q
+63
+V G Y O O T J V T J B J B B B J J Y J Y B J J Y J T T B Y J G V G Q T B T B B T B T V V V B Y J Y Q Y Q T T O Y O Q V V B T O
+89
+C C C C M C C C C C M C M C M C C C C C M M M C C M M C C C M M C C M M C M C M C C M C C C C C M C C C C M M C C M M M C C M C C C C C C C C M C C C C C M C C C C C C C M C M C
+66
+Y D K Y P P G L L X G L Q M U M G F T R F V N B J U A K J H P Z Q O A G C H H G Z M M W U B A W X L A E A G R H A Y S B B F Y Q H W
+6
+Q Q Q G S G
+95
+X I N S V R N M N D M H J K S R J N R B B H Y B D B S S H B X P Y H S X I D B R P M J S I D M P R J M J J Y W D I H Y B S D R X R I J V X B M B S R B W H R S J J I M M H D K K D Y B I H D D
+6
+G G Q S G Q
+93
+X Q K G W S K S G L H C R Q L R L G L V X W V T I Q T S T N G A H X L S K V Q X R V V T T Y J S Q N Z S A V I I N T Q S W Y A G G I V N X Z A G Q I H C Q T A N V G S Y R R Z Y A S Z Q Z
+6
+G G G Q S S
+6
+S S S G S Q
+93
+C N H R S L C R N J D C J R H C N J J M D C N C D D C N L N D C N L H M N S C L N R S M J J D H J H R N J D R C M S N N H R S L D J C D H R D D C D C N D N D N C N D S J D S C J S N N N
+5
+L J L P P
+96
+C I O Q R R P R J R T C T S H R W W J J H W Y C P I J O J H C P I Q I I A R I Y Y Y P F Y T X Y T T I I A A O I R T X I O S I C S I N R Y R T T R T O C I P J I A I T I Y P I Y Y J N C I N W C
+5
+P J L P J
+6
+Q Q S Q S G
+6
+Q S Q S S S
+50
+A J B T X N P O U T A B B T G T S W O U N G D X G P B U P L M N P P D F A R Y W U O F A P P U W O G
+6
+G Q G Q Q G
+6
+S S G Q G Q
+96
+K L N J N B J Z Y Q X Q P H B C W K B C S P N S N L B C B P H G N B Z M N C X U S U S P L H T S L T K O W U X H Y C L C O S U P J B S P H M K X K W J Z Q S T S H O C C H B Z K N U N Y J S B I
+84
+A V H T Y P T T Q A Q J H Y Q W Y J Z T P P P J P P S T B Z B T F Q N Q V E T E F G J T Q F Z F Q F P Z V A T Q T B J J H Y S A E A Z G T K T E W S W Y W S A N N P Z G
+71
+Y G M E S K R W V B Q L D E N Y I W K K X B B M X Y H E E G E B J K D P L X N X I P K Y G E I W R O K Q K I M K I X X E R R W X B S Y X Y X W
+6
+G G S S Q G
+6
+S Q G Q Q Q
+64
+P G T Q W V R E M G M D F G U T N R Q U U L C N A E Z E T P E E U T F D P N Q E D G P C A W E Z D G G G L Q Z U G D A L Y D F O
+53
+R O O M Q V B L M U U V Z U U J Y S H B W Z G Y C L Q C Q L O J C G L L G L L Q L I L Z C Y L Y I H B L Z
+5
+P P Q Q Q
+5
+P Q P Q Q
+6
+S G S Q Q S
+6
+S Q S Q Q G
+6
+S G S Q G S
+6
+G Q G S S Q
+6
+G G G S Q Q
+6
+G Q Q G S Q
+6
+G S Q S S Q
+54
+U M H F F H M V A Z H M U V U Z M P H F H P D M V H V F D A V A U U H V H M M H U P V V V D V M P P M M V Z
+76
+R V S V C I G M X P C N T K Z X K Q D P T Q V A J Z P K A C N Y K Y P C N S R N P F J I S A Q T T I S F N T M T C J M Q M T T R Q X O T Q F D V Z S I Y
+6
+Q Q Q Q S G
+6
+G G S Q S Q
+6
+Q G Q S S Q
+6
+S Q G Q S Q
+6
+G S Q G S G
+6
+G G Q Q G G
+6
+G G S G G S
+5
+L L P P J
+6
+G S Q S S S
+6
+Q Q G S Q Q
+77
+B S D T B D B Q A C U I Y S S X X D N D I Z B W N P N X P D P Q Q Q T D D O X S D N X X O X T L X K T C E Q I A N Y P Z J J H A H Q I Z Y I X D U L I L N
+5
+J J P P P
+6
+S G S G S Q
+75
+T E T N Q T S S F S E E S E Y Y E T Q E Q S U T S S T K U S S F E T K C C F F Q S K E S F C U E E C S F F N S V F V K Q Q S T Q Q U Q E F E T F K N E
+5
+L J L J L
+87
+T Q T O X C O O T Q O X Q O C T S T X S X T O O Q X T O X S X X O O T X X X S C X Q S Q O Q C Q C O S C C X S O Q C X C C X T O S X Q C C S O Q Q O Q O Q Q C T X O O C T O T
+6
+G G S S Q Q
+6
+G S S Q S G
+5
+J J P L P
+6
+S Q S S S G
+89
+P H C X H T Y O I L E S T S H Q C F X P L U F C I I I F P L O E V K U P V C Q L S P H O R E C O N Y O P T I L I R S I S X P S Q A I P N P P V F H I C A T A N C X V N E O C S N Z
+6
+G Q G S G Q
+53
+Z F I W R W R I G W Z T W W W I R Z T T Z W Z F F F G G R F Z W R I W S W R W W T T W T T T F R R W I Z S
+6
+G S G S Q Q
+68
+X T T Y D E E W U Y J I I S M W P J K E S V J B S H R L V X K D W J K L T S E R X D W S S R Q K M W S D D E V D G W M H D H H Z K C A K
+61
+F Y Y G Y G Y Y P Y F T G P P Y P C P P Y G G Y G Y T T P P T Y P F Y Y G Y G Y Y T Y F P G T P G P G C F F C F G T C F Y
+50
+Y Y X V L S L V H B G S B H H C G S Y G V S S G G B S B Y V S B V C X S L H H C V S V G H B S H B S
+6
+G G G Q Q G
+87
+R Y X Y S S Z A D T Y S G E Q T B W Z E Y D S D E Q S E D W Y P Y X G B Z R R R W D D W U G S W Y W G D G Z Y G B U U D D R G U Y H B Z Z P P P G W S R W E E R G S Y S N R U
+6
+G S Q S G Q
+6
+S G G Q S S
+65
+W W W V D X D W P W B V V P W Z Z B V P E P E Z P D N P Y D E E B P V Z B D N V P V V D W W P P Z D W P D E W W E D Z Z V D P B V
+6
+G S S G Q Q
+5
+J L L P P
+5
+J L J P J
+5
+L J L J J
+55
+U A T H C R C A T E K E T A H N C N U N M K K N R T R K R R K A H H A T R R R T N K H H N T M T N U Y A N N A
+6
+G G S Q Q G
+6
+S Q S S Q Q
+51
+R F R H F F Q F F H R H F P Q U U C Y H H P P H Q P R R F R Q C H C P R R U R Q P R F R Q Q R R H F F
+6
+S Q S G Q S
+6
+S S S G G Q
+6
+G S Q G S Q
+6
+S G Q G G Q
+5
+J P J P L
+5
+P L L L J
+6
+G G S G Q S
+6
+Q S S G G S
+6
+G S G G Q S
+55
+G F F F F F G G F F F G G F F F G G F F G G F F G F F F G G F F F F F F F G F F G G F F F F G F F F F G F F F
+83
+E W Z W Z E W M G E Q M Q Q E G O E M E Z K T H H M G K M G P Z H K T J N P K H T J P H Z E Q K G Q W M K G Z W E G E Q G M E K H Z T Z E E N E N E M O H M T M Z K N
+5
+J P P P L
+6
+Q S S Q Q S
+6
+S G Q Q S G
+6
+G G G G S Q
+89
+D C C I F T H R I B R I C T D T B B O Z R D O D D R C D B C G C C B T C B T B F K G F G T R Z Z F D C D O G G B C Z O O G D C B T G O R B F D O I K G K D O R O B T C R C D G G C
+6
+Z Z M Z M M
+6
+Q S G Q G Q
+5
+L J J J L
+6
+Z Z M M Z Z
+6
+Q S G G S Q
+61
+W T H D P V W N K P K P W F D V N V P H B B D T P B P N K F F D H V P P P K B B W V F D P B B N F T P F P K W W V K F K N
+6
+G G S S G Q
+6
+G Q G S G S
+5
+L L P P P
+6
+S S S Q S S
+6
+S Q S G S Q
+89
+J S M I B B H A F N S A M J O Y A Z A Z I L J A A A F M I P E S F Z N Y N N O W O E H Z N F L Z L Z B P W A Z O P O W C W A A A P E X S N L F Z L Z I E N A F E K K L B B H S W J
+63
+I Q V B V H E I V E B E V H Q Q E E E Q E B B E B I Q I B H H Q V Q Q I E E Q E V V H Q I B V V V B B E I B V B V E V V I Q Q
+5
+J P J L J
+70
+S B P V F N F I U R V S I H B F C Y B B N Y V U V V F C V U H F P U C B V P B I S B R V S P C C S B U R C B F F I C F C S V S I P P N F C B
+6
+G G S G Q Q
+6
+G Q S S G G
+81
+V A J Z A Y A S U S V M S H P K A L V F F Q F M U H D U B A M P A E U P V F U S E Z K L Z K Z Y M S V J S F F B M Y F B E L Y S V D E J B Y U D V J U P D D Y M A
+6
+S S G S Q Q
+6
+Q Q Q S S Q
+6
+Q S Q G G G
+5
+J J J J L
+6
+Q S G Q S S
+100
+R T F U T K F J G I E G R J U S A Q V G D T O P D T R E L S G F Z U K J K Q A R S J A U Q B W O M I T S A C R M A G B F S J E N F J S O V J W G J L Y D C J O U D L E M A Q W J T M O O U X H Y I D T W
+6
+G G G S S G
+6
+S G S S G S
+5
+Q P Q Q P
+82
+W X X S G H N H S N Z I I U S I X Z W G Z X O V H I Z F I L I G O V N E N W U O N L N L H Z T X N I N Z S I H E O V U O X U G O Z V N N S V X I X V H I I O E H I I
+95
+Y H F X Y H E X Y Q X Y Y X I T F F X H H H E Y F Y F Z Y Y Q Q Y X Y H H Y H Y I X H X X E Z I F Q T Y F Q H Y X X E X F E T T Y H H F F T F X Q X X H Z F Y I Z F H Y F F H E Y E T E H Y Y
+6
+Q S S S G G
+53
+B B B E B B A G E V R R B G R R V B A B G E E G B B R A A S R R R B A R A E E B A B B R A A B R A B R E B
+6
+Q S G S Q G
+6
+S Q G G G G
+6
+G Q S Q G G
+6
+S Q S Q S G
+5
+J J J J P
+86
+C Q C H Q G G G G Q C M L M G M H H G K M H H Q H M H H H H H G H M Q M D Q C M H M H R D D H M H G G Q M K M M C C Q H M R H M K G Q Q D G C C G L H H M H M C Q M G C D R
+6
+G S S Q G Q
+6
+S Q Q G Q Q
+6
+G S Q G Q S
+6
+S S Q S Q S
+6
+Q Q S S G Q
+6
+M Z M M Z Z
+5
+Q Q Q Q Q
+6
+Q S S G S G
+51
+K N Z K B K N T N Z N K K T K K Z T T Z T T N N T T Z Z T Z Z N N T T N T T K T Z N K Z N Z N Z K N T
+89
+T T L P S T L G S P P G N P O N P L G U N N L G D N T L D G U T L T G G G T T G T G S G G L L D N N G L S S L P T P P L O L O T L T G G T L G S G D N P O L L P G S N T S S L S L
+6
+Q Q S S G G
+87
+F P P H Y Y Y G Y H U G P U F Y U H H U P C U P P P D F G P G P H P P P P Y C U G Y Y P F F P P Y C P U F Y P H F Y P Y P G P F U H F G U U P F P C U H H F F G G Y G F C Y P
+6
+M Z Z Z Z M
+6
+Q G G Q Q S
+5
+L J J P J
+52
+S Y Y Y R Y B Y T I Z M G O O O N U Y H W Q Q S S S U H Z L I Z G A O Q W G U B M U T Z S O B H I W Z M
+6
+S Q Q S S G
+5
+P Q Q Q Q
+74
+H L Y I Q V D W N C V I S S U K X B Y Q V W X W G C H S J H K O P D D J W P W L H J W A Z G J W Q P X C J L Z J H I W W Q A G N I S T K K N G W L S
+6
+G Q S G G S
+5
+J L L P L
+6
+G S Q G Q Q
+5
+P J J J J
+68
+T T P Z T T L R P P T P Z L Z R L Z Z T Z R Z P Z P Z I Z X Z Z R I X T Z Z T R P R P L L Z P T Z P Z Z R Z T Z I Z P Z P R L T L Z I Z
+6
+G S G G S Q
+91
+I K N D N K E K I N E I K K I E D K N K I D E K K N I K N D I N E I K N D I E N N E D K E E K D D K D K D K I K E N K K K I I I K N K E N N D N K I N D N I E N K K D D N D K K K E I
+67
+S S X X S X S S S S S S S S X X S S S S X X S S S S S S S S X X X S X S X X S S S S S X S S X S X X S X S X S S S S S S S X S X S S X
+100
+U J U L L J J U U J L J U J L U U L U U U U L J U J L U J L U U L U U U U J U L J J U U J J U U L U U L U U U J U U L J U U J U J J J U J U U L J U U U J J U U L J U J U L J L U L U L L J U U U U J J
+6
+G G S S S Q
+5
+L L P L J
+6
+G G Q S S G
+81
+O O O A A I A C V T N V O K C O K N N A O K O O I I C O I T C C V K A M M I I O C M U I O I K S T I M N T A M O T C A N K A A N N A A A O C O A A C V C K O A K O
+6
+Q Q G G Q S
+5
+J P P J J
+5
+Q Q Q P Q
+6
+S G S G Q S
+6
+G G G Q G G
+6
+S S Q G Q S
+6
+Q Q G Q Q G
+5
+L P L P L
+6
+G S G G G S
+6
+G S G Q Q Q
+94
+K Z N Q A L K B V L T Q O H V Q L X L O Q T L O B J B R V H Q X W B L O V B Z Z Z L W A V K V Q L B W T W W V V L Q G Z Q Q O Q O T N H O A B A Q A H B V K W Q K O W W G L V Q J B R Z K H
+6
+S S Q Q S Q
+6
+Q G Q G G Q
+6
+Z M Z M Z M
+6
+Q Q Q S Q S
+6
+G Q Q G S S
+81
+Q U V U W O M O V M Q H D O M W V W H Q H W D V V M V D V W H V H H W Q H D D U U V H O V H Q U W H Q V V V W W O H O V W H U V H U W W W U O U D U Q D V D D M H
+5
+P J J L P
+5
+L P L P P
+6
+Q G Q G Q Q
+6
+Q G G G Q Q
+88
+C J C M Q F Q M I Z Q Q C Q Q Z M X C N N R Q Q N E Q X Z Z Z N E N Q N F Q Z J N E C Q Z Q C E N C F Q F C G Q C E N C Q X N N F F N F Z N N M N G N F Q F N E Z F N Q E E N Z
+6
+G G S Q G G
+5
+L J J P P
+6
+S S Q Q Q Q
+6
+S Q S Q G S
+6
+Q Q G S Q S
+6
+G Q Q G G G
+6
+G S G Q S S
+83
+R B Y U H Y Y Z U Y U Y U Z U Z Y U B Y M Y R H Z M U R Z M Z Y Y Z Y Y Y R R Y H Z F F R M R Z F F Z Z R R Y Y B R Z Z H R R Y Y Z B Y Y U Z R Z Z H Y U Z M Z R Z R
+94
+F P P X F D F V D R D D R X X F F F R X P F E E E Q X P P X Q R Y R X P P R Y X X F D P X Q P D P D F V Y V F Q X D D D R X E Q R P R P P D F R V R Y R R F X Q E X X D R X Q Q P P Q F D X
+6
+G S G G Q Q
+82
+F Y A X T T T F A C N Y A L D T E F F K D T F F T K D T C Y K K F B T L D F P E F K S Y K Y X G S Q G X D F E N F S E C G E S F D G Y K T B K F E K K E T A C D K E
+73
+I K K P N N K K I I P K K N K N N N K P P K P N P K P K K I N P N N K K I P P N I K K P I K N K I I P K P P N K K N K N K K N K P I P N N N K K N
+70
+S F Q O X O F X F F S X F X Q Q F X F F O O F O Q F Q O O O O X O O F Q X O F O Q F S F X O O F F O Q X S O O Q O S F Q X S S S O O O S Q F
+5
+J L L J J
+6
+Q G S G G S
+5
+P J L J P
+5
+J L L P J
+6
+S S Q S S G
+6
+S S Q S G Q
+54
+H M S D C Q E L L N S R P S A G O W R S V D K L G S G L D Y X V R O I N T H G V S G G E E Y L E W S R Q E R
+100
+T F Y A P V V X Y U Z O F L D X H A L V F A D H P H L H Q D Z D Y D L Q M Z K B D J Z K D L L Z A H E L E J K H Z Q T Z D D Q A L M T P I J J O H Y M W P M D A Z D V L E V M H K P X H M A D P J J K A
+6
+S Q S S S S
+6
+Q Q S G G G
+6
+S Q S S Q G
+6
+S Q G G G S
+70
+A N I N N N N N I N N N I E N N N A E I Q Q E E N Q Q Q N N I E I Q Q I Q N N E N I I I N Q N N Q N A E Q N N I I N N Q E N A N E Q I Q Q N
+6
+S S G Q S S
+6
+G S Q Q Q Q
+98
+N N U A O A A E U A A U U R S E N N A A S U H O O E U R S E U R S S N R A R R S S N A C A O N R E S R A R O A A U S A D N A A B E R O C A N O E D H S U H R P O P S S P O N E S O A C P S O S A S G
+6
+Q S Q S G S
+6
+S S G Q Q Q
+6
+S G S Q S S
+6
+G Q Q S Q G
+6
+G G S G S G
+91
+D P P M I Z D Z E C B H Z W Z S Z Z Z H K B S P T I I S I W T B B T E I P Z K M C D C A P P K W Z W K E P M D J K K E W E T D S M K S I S C W M D W W L C C P S Z M J Z H E W C J S S
+87
+M F X W X Y S N F U N M X D B M S D F B S B E K Y P P P W F S Q F B F B S K F X D M T D B X T F F Q B B Q N N B N B E T T D P X E K F D F P T D W S S D S D N K B T F Q Q F E
+6
+G G S S Q S
+6
+Z M Z Z M Z
+6
+G S G G S S
+5
+L P J L P
+6
+S G Q G Q G
+93
+V M T E T J E S A B W S K J J S K Y E E T E Y I B C E Y S C A E S B M B K S V T S Y J T E M K B B E Y B T Y T I K Y S Y T T I S S A S Y S Y S E B Y T S Y K Y V S Y K T Y K M B V M T T S
+5
+L P P P P
+70
+C L W C T F U Y X U N Q Q E Z C K W W T A L L U O B W X X X B J J A Y A Q B I R C K A W J L L B C Q B O Y T R U C U L U T Z J A Q C W Z W X
+5
+L P J P P
+6
+S G G Q G G
+5
+J P L P P
+86
+V A V A S S S A X S V V V V X V A X V A V X S V A S V A V X V A V A X V S S A A X X V S V X V A A V X V A V V V A V X X X A A S S A V A V S V V V V A V V A X V V V A A A V
+6
+Q S S Q G Q
+6
+G Q S G Q Q
+51
+V H V K E V V H K V H K V H H Y Y H Y Y H Y T V J Y V V E J E H T J H T H K V J H E J J V V Y J H Y H
+5
+L L J P J
+94
+E H X U H H U U E Q Q L L L E R U E Q Q E E C X H Q Q U L E L X L C C U R L U L X E R L Q E C E E U R L Q E R E X Q H U R H X E U U E H E U L E X E H U R X Q Q L L X U E L X Q U E E Q L L
+6
+M M M Z Z M
+75
+C C F G Q T T G Q Q T F C C F F G C T F G B Q B C C B B T C F M Q T T Q M C T T B C G C T T C G B C T F T T C T F C B C B B M B B B M G G C T Q B B T
+62
+W H S H X H F Q K S L T Q R B O J T S C W H O N D D H F X J F K I C C T T V G F Q Q O N H W V T B J N K Q H N V M J C G V S
+81
+V D J X K K R X D L X X H X O X T V R B X V M R D V V A R V E H J V N N Z N Y P S X N F N E J A I U V X V S R X E N J O R P P J F L V O H Y X X E V N E S U R D H
+86
+X M D U I M K W I I W I M I D U Y X W Y W X W X D D W X K I Y X X K Y O X U M M W I W Y K W X I X W W D K U O I K X E M U W O M X M M M I Y D D D Y X O K M I O D U E K Y M
+86
+T Q Q Q V S Y T V A S H Z F S T H F V W S T T S Y Z S S S T S Z S W R S W V Z V T F T T Q G Q S S Q Z Y H V A H F G G Z T T R T F F A W H Y H Z F Q A Y Q V G A H T Z W W Q
+5
+J P J P J
+50
+L W L L G M O L G W O D M L L W L L G G W M W L M S M O W L O G I W M L M W W W W L D D L S I M W G
+6
+S S G G S S
+5
+J P J J P
+6
+S S Q G Q G
+6
+S Q Q G S G
+5
+Q P P P P
+6
+Q G Q S S S
+6
+G S S S S S
+6
+Q Q Q S G S
+6
+G S S S Q S
+6
+Q G S S Q Q
+6
+Q G Q S G G
+11
+N N N N N N N N N N N
+6
+Q Q G G G G
+96
+C T C T L N A E D J P B Q S F X L J T D A M L F J J A S B D S L H H A H D S H W Q E C L P D A F L N Z B D N H Q I X E A X L C D C H C F F D J S B E T I W O B A D D A E C M G W W L A C X C D H
+51
+U P Q W M N A J U M W K K J M K R E U M Q F F K Q K W W E P B W J Z W Z A E Q L Q W J E J B I B I A Q
+6
+S Q G G S S
+85
+K O G C A E G C U D K R L U J D U X Q A O Q R A X L O G W O K M U Z R X J K R R J U A G L L R O Z H Z Q D H M G U K L Z D C X O L R H C U Z Q X Z R G R U R A U L K R W U
+6
+S S Q G S S
+78
+N Y A K V W O W Y S S L J G A P U F G X Y Z S Y G H P C K Z U G M I Z X W A K G I H L S K H T D C K H W M Z Z N R Z U H W X Z T U N W D H F I N O L W N Y P
+6
+S Q G Q S S
+95
+O S U J V B S H Y Y U Y K G F H O B I H I O K Y F S J F A O J A I J O I K K I U V O J Y G C K Y K Y O Y O X F H G J J P B Z B I K Y A K V H A A U J J I O I H U V O V G S H Q I H O G U V U J
+5
+P J J L J
+6
+M M M Z M Z
+5
+J L P P J
+6
+G G Q S Q Q
+6
+G G Q Q S G
+5
+J L L L P
+6
+S S G G S G
+6
+G Q Q G Q G
+5
+P L J P L
+6
+S G Q G G G
+6
+Q G G G G Q
+6
+Q S G G S G
+90
+M B V H O X F M C M V V M X X W D X F X M X W V P B D C F X X O X V M W S P M P F P D F H F X X V D F F O D S F V X M C S S D F C P P C H P X X P F O S S V P B M D D B W S F P M O
+6
+Q Q S S Q G
+6
+G Q Q Q Q S
+80
+V I Z Y T F V F L L Z Y D R Z V L I J R X V V V Z X Q R U F W I R T O P K G N L W Q I N W I P V V N Z F V Z D X J Y J G T Y B Z Z F W L U R Y K X I Z Q V I Z D
+100
+O X R R W G I T B Z B S T J U I O B B Z J X B I Y W B O T M F J D Y U J H O O G B J O Q Z X O B Z R S G H H I F X R Z Y B O F O X R X B R W L D Z X Z D U X G O X W B X J Y O U I B Z W J Z B X B O L J
+83
+N N R R R N N R N R N N N N N N R N N N N N N N N N N N N N N N N N N R N N N N R N N N N N R N N N N N R N N R N N R N R N N N N N N N R N N N N N N N N N N N N R R
+5
+L L L P L
+6
+Q Q S S S G
+100
+D D D O O O D D P P D D D O D D O D D O O O D D D D P O D D P D P D D O O P P D O P O P P P D P D D P O O P D O P O P P D D O P P P O O O O D O P D O D P O O O O P P O P P P O D O P D O P O P P P D P
+6
+S G Q G Q S
+6
+M M Z M M M
+99
+V T F K F C O W L H G V M O S O W F O G S N F B L C M V L K P K W M C O F F F F S P C W F K C K C V W W V W G N C F C L B F M Q Z Q H O B O L M P K S F V L Y G P C V V F Y L S C Z P H G B K G V P O
+6
+Q G G Q G S
+6
+G S Q G S S
+5
+L L P L P
+5
+L J P L P
+6
+S S Q G S G
+91
+G H V Z V Z V Y L L Z D H D Y L G V D L V G G L D G D L Z L D D V D G L G L Y V G V L Z Y D D L L L G Y L G V D L V D V D D Z V D L G V G G H H V V G D L Z L L Y Y L V Y V Y G D D D
+6
+G G Q G G S
+6
+Q Q S G Q Q
+59
+F F I L L I I I L L I L F I L L L L I I I F F L F I L F L L I F L F L F F I L F L I L I L L F I F L I I F F F L L L F
+68
+T N O C B Y N P Y B B Y O C N Y C X K S Y Y N P P X K P Y Z O C X Y S T N U T P Z Y O C P U Y S P X K O Y K T X S K U C P N C B Y B C P
+6
+G S S S G S
+6
+M Z M M M Z
+92
+O M P X X Z O L O L Z R H Z N U D S X Z U W B L P E O S D Y O N P J O Q W C P O E R U S C U T P P E C P P T Y J X J B T U P T I R M Q L C D D H P X L O Z L J U S U D P C B J P E J T U
+6
+G S G G Q G
+6
+Q S Q G Q S
+5
+L J J J P
+5
+J P P J L
+5
+L J P L L
+78
+O O O J O J O J J O O O W O O W O O J J O W O O O O O O O O O O O O O O O O J O J J O W O O O O O W J O J W O O O O O O O W O W O J W O J O W O O O O O W O
+50
+G J U V V M Y E S S J Z F G P H P F H I X X I X M S A A A I Y X F J P G I F C S S V Y U V E J E I F
+0

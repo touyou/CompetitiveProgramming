@@ -1,0 +1,11 @@
+Problem Statement
+You recently got a job at a company that designs various kinds of filters, and today, you've been given your first task. A client needs a filter that accepts some objects and rejects some other objects based on their size. The requirements are described in the int[] sizes and the String outcome. If character i in outcome is 'A', then all objexts of size sizes[i] must be accepted, and if character i is 'R', then all objects of size sizes[i] must be rejected. If an object's size does not appear in sizes, then it doesn't matter if it is accepted or rejected.
+Unfortunately, your knowledge of fileters is very limited, and you can only design filters of one specific kind called (A, B)-filters. Each filter is characterized by two integers A and B. It accepts an object if and only if its size is between A and B, inclusive. You have exellent (A, B)-filter construction skills, so you can construct any such filter where 1 <= A <= B.
+If it is possible to construct an (A, B)-filter that fulfills all the requirements descibed in sizes and outcome, return a int[] containing the filter's parameters, where element 0 is A and element 1 is B. If there are several appropriate filters, choose the one that minimizes B - A. If there are no suitable filters, return an empty int[].
+Definition
+Class: Filtering
+Method: designFilter
+Parameters: int[], String
+Returns: int[]
+Method signature: int[] designFilter(int[] sizes, String outcome)
+(be sure your method is public)

@@ -1,0 +1,1 @@
+// FalseCoinを探す。
