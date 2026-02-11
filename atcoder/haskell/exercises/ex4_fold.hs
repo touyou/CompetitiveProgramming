@@ -17,7 +17,7 @@ import Data.List (foldl')
 --
 -- ヒント: foldl' f 初期値 リスト の形。初期値は minBound が使える
 myMaximum :: [Int] -> Int
-myMaximum = undefined -- TODO: foldl' で書く
+myMaximum = foldl' max minBound
 
 -- (b) 累積和（先頭に 0 を含む）
 -- 例: cumSum [1,2,3,4] => [0,1,3,6,10]
@@ -25,7 +25,7 @@ myMaximum = undefined -- TODO: foldl' で書く
 --
 -- ヒント: scanl を使えば1行で書ける
 cumSum :: [Int] -> [Int]
-cumSum = undefined -- TODO: scanl で書く
+cumSum x = scanl (+) 0 x
 
 -- (c) 区間和 (0-indexed, l と r は両端含む)
 -- 例: rangeSum [1,2,3,4] 1 3 => 9  (2+3+4)
@@ -34,17 +34,17 @@ cumSum = undefined -- TODO: scanl で書く
 --
 -- ヒント: cumSum の結果を cs とすると cs!!(r+1) - cs!!l
 rangeSum :: [Int] -> Int -> Int -> Int
-rangeSum = undefined -- TODO: cumSum を使って書く
+rangeSum xs l r = cumSum xs !! (r + 1) - cumSum xs !! l
 
 main :: IO ()
 main = do
   -- (a)
-  print $ myMaximum [3,1,4,1,5,9]   -- 9
-  print $ myMaximum [-5,-3,-1]       -- -1
+  print $ myMaximum [3, 1, 4, 1, 5, 9] -- 9
+  print $ myMaximum [-5, -3, -1] -- -1
   -- (b)
-  print $ cumSum [1,2,3,4]          -- [0,1,3,6,10]
-  print $ cumSum [5,5,5]            -- [0,5,10,15]
+  print $ cumSum [1, 2, 3, 4] -- [0,1,3,6,10]
+  print $ cumSum [5, 5, 5] -- [0,5,10,15]
   -- (c)
-  print $ rangeSum [1,2,3,4] 1 3   -- 9
-  print $ rangeSum [1,2,3,4] 0 0   -- 1
-  print $ rangeSum [10,20,30] 0 2  -- 60
+  print $ rangeSum [1, 2, 3, 4] 1 3 -- 9
+  print $ rangeSum [1, 2, 3, 4] 0 0 -- 1
+  print $ rangeSum [10, 20, 30] 0 2 -- 60

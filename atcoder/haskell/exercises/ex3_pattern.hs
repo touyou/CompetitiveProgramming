@@ -16,7 +16,8 @@
 --
 -- ヒント: xs@(x:_) のように書くと xs でリスト全体、x で先頭が取れる
 headIsMax :: [Int] -> Bool
-headIsMax = undefined -- TODO
+headIsMax xs@(x : _) = maximum xs == x
+headIsMax [] = False
 
 -- (b) ソート済みリストのマージ
 -- 例: mergeSorted [1,3,5] [2,4,6] => [1,2,3,4,5,6]
@@ -25,17 +26,19 @@ headIsMax = undefined -- TODO
 --
 -- ヒント: 両方のリストの先頭を比較して小さい方を取る再帰
 mergeSorted :: [Int] -> [Int] -> [Int]
-mergeSorted = undefined -- TODO
+mergeSorted xall@(x : xs) yall@(y : ys) = if x > y then y : mergeSorted xall ys else x : mergeSorted xs yall
+mergeSorted [] y = y
+mergeSorted x [] = x
 
 main :: IO ()
 main = do
   -- (a) テスト
-  print $ headIsMax [5,3,1,2]   -- True
-  print $ headIsMax [3,5,1,2]   -- False
-  print $ headIsMax [7]          -- True
-  print $ headIsMax []           -- False
+  print $ headIsMax [5, 3, 1, 2] -- True
+  print $ headIsMax [3, 5, 1, 2] -- False
+  print $ headIsMax [7] -- True
+  print $ headIsMax [] -- False
   -- (b) テスト
-  print $ mergeSorted [1,3,5] [2,4,6]   -- [1,2,3,4,5,6]
-  print $ mergeSorted [1,1] [1,2]       -- [1,1,1,2]
-  print $ mergeSorted [] [1,2,3]        -- [1,2,3]
-  print $ mergeSorted [10,20] []        -- [10,20]
+  print $ mergeSorted [1, 3, 5] [2, 4, 6] -- [1,2,3,4,5,6]
+  print $ mergeSorted [1, 1] [1, 2] -- [1,1,1,2]
+  print $ mergeSorted [] [1, 2, 3] -- [1,2,3]
+  print $ mergeSorted [10, 20] [] -- [10,20]
